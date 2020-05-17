@@ -52,8 +52,6 @@ _build/nrf52840_xxaa/nrf_memobj.c.o: \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_error_weak.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_mbr.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_svc.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/nrf_log_instance.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/experimental_section_vars/nrf_section.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h \
@@ -170,10 +168,6 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_error_weak.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util.h:
-
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_mbr.h:
-
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_svc.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/nrf_log_instance.h:
 

@@ -41,8 +41,6 @@ _build/nrf52840_xxaa/nrf_balloc.c.o: \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/nrf51_to_nrf52840.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/nrf52_to_nrf52840.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/compiler_abstraction.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_mbr.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_svc.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_macros.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nrf_assert.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/experimental_section_vars/nrf_section.h \
@@ -62,7 +60,6 @@ _build/nrf52840_xxaa/nrf_balloc.c.o: \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/nrf_log_instance.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/nrf_log_types.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/nrf_log.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/strerror/nrf_strerror.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/src/nrf_log_internal.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/nrf_log_types.h
 
@@ -148,10 +145,6 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/compiler_abstraction.h:
 
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_mbr.h:
-
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_svc.h:
-
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_macros.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nrf_assert.h:
@@ -189,8 +182,6 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/nrf_log_types.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/nrf_log.h:
-
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/strerror/nrf_strerror.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/src/nrf_log_internal.h:
 

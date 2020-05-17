@@ -16,6 +16,18 @@ SRC_FILES += \
   $(SDK_ROOT)/components/libraries/log/src/nrf_log_frontend.c \
   $(SDK_ROOT)/components/libraries/log/src/nrf_log_str_formatter.c \
   $(SDK_ROOT)/components/boards/boards.c \
+  $(SDK_ROOT)/external/freertos/source/croutine.c \
+  $(SDK_ROOT)/external/freertos/source/event_groups.c \
+  $(SDK_ROOT)/external/freertos/source/portable/MemMang/heap_1.c \
+  $(SDK_ROOT)/external/freertos/source/list.c \
+  $(SDK_ROOT)/external/freertos/portable/GCC/nrf52/port.c \
+  $(SDK_ROOT)/external/freertos/portable/CMSIS/nrf52/port_cmsis.c \
+  $(SDK_ROOT)/external/freertos/portable/CMSIS/nrf52/port_cmsis_systick.c \
+  $(SDK_ROOT)/external/freertos/source/queue.c \
+  $(SDK_ROOT)/external/freertos/source/stream_buffer.c \
+  $(SDK_ROOT)/external/freertos/source/tasks.c \
+  $(SDK_ROOT)/external/freertos/source/timers.c \
+  $(SDK_ROOT)/components/libraries/timer/app_timer_freertos.c \
   $(SDK_ROOT)/components/libraries/util/app_error.c \
   $(SDK_ROOT)/components/libraries/util/app_error_handler_gcc.c \
   $(SDK_ROOT)/components/libraries/util/app_error_weak.c \
@@ -25,11 +37,15 @@ SRC_FILES += \
   $(SDK_ROOT)/components/libraries/balloc/nrf_balloc.c \
   $(SDK_ROOT)/external/fprintf/nrf_fprintf.c \
   $(SDK_ROOT)/external/fprintf/nrf_fprintf_format.c \
+  $(SDK_ROOT)/integration/nrfx/legacy/nrf_drv_clock.c \
+  $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_clock.c \
   $(SDK_ROOT)/components/libraries/memobj/nrf_memobj.c \
   $(SDK_ROOT)/components/libraries/ringbuf/nrf_ringbuf.c \
   $(SDK_ROOT)/components/libraries/strerror/nrf_strerror.c \
   $(SDK_ROOT)/modules/nrfx/soc/nrfx_atomic.c \
-  $(PROJECT_DIR)/src/main.c \
+  $(PROJECT_DIR)/src/main.cpp \
+  $(PROJECT_DIR)/src/task_led.cpp \
+  $(PROJECT_DIR)/src/freeRTOS_tasks.cpp \
   $(SDK_ROOT)/modules/nrfx/mdk/system_nrf52840.c \
 
 # Include folders common to all targets
@@ -42,6 +58,10 @@ INC_FOLDERS += \
   $(SDK_ROOT)/components/toolchain/cmsis/include \
   $(SDK_ROOT)/components/libraries/util \
   ../config \
+  $(SDK_ROOT)/external/freertos/portable/CMSIS/nrf52 \
+  $(SDK_ROOT)/external/freertos/portable/GCC/nrf52 \
+  $(SDK_ROOT)/external/freertos/source/include \
+  $(SDK_ROOT)/external/freertos/config \
   $(SDK_ROOT)/components/libraries/balloc \
   $(SDK_ROOT)/components/libraries/ringbuf \
   $(SDK_ROOT)/modules/nrfx/hal \
@@ -57,6 +77,9 @@ INC_FOLDERS += \
   $(SDK_ROOT)/components/libraries/memobj \
   $(SDK_ROOT)/external/fprintf \
   $(SDK_ROOT)/components/libraries/log/src \
+  $(SDK_ROOT)/integration/nrfx/legacy \
+  $(SDK_ROOT)/integration/nrfx \
+  $(SDK_ROOT)/modules/nrfx/drivers/include \
   $(CONFIG_DIR) \
   $(INCLUDE_DIR) \
   
@@ -74,7 +97,7 @@ CFLAGS += -DBOARD_PCA10059
 CFLAGS += -DBSP_DEFINES_ONLY
 CFLAGS += -DCONFIG_GPIO_AS_PINRESET
 CFLAGS += -DFLOAT_ABI_HARD
-CFLAGS += -DMBR_PRESENT
+CFLAGS += -DFREERTOS
 CFLAGS += -DNRF52840_XXAA
 CFLAGS += -mcpu=cortex-m4
 CFLAGS += -mthumb -mabi=aapcs
@@ -96,7 +119,7 @@ ASMFLAGS += -DBOARD_PCA10059
 ASMFLAGS += -DBSP_DEFINES_ONLY
 ASMFLAGS += -DCONFIG_GPIO_AS_PINRESET
 ASMFLAGS += -DFLOAT_ABI_HARD
-ASMFLAGS += -DMBR_PRESENT
+ASMFLAGS += -DFREERTOS
 ASMFLAGS += -DNRF52840_XXAA
 
 # Linker flags

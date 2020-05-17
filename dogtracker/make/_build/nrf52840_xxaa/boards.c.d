@@ -37,8 +37,6 @@ _build/nrf52840_xxaa/boards.c.o: \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/compiler_abstraction.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_mbr.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_svc.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util_platform.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nrf_assert.h \
@@ -142,10 +140,6 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm
 ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/compiler_abstraction.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h:
-
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_mbr.h:
-
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/mbr/nrf52840/headers/nrf_svc.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h:
 
