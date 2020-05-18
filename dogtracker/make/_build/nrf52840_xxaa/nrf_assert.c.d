@@ -40,7 +40,7 @@ _build/nrf52840_xxaa/nrf_assert.c.o: \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\sys\stdio.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm-none-eabi\7.3.1\include\stdbool.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_errors.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/drivers_nrf/nrf_soc_nosd/nrf_error.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_error_weak.h
 
@@ -124,7 +124,7 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_errors.h:
 
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/drivers_nrf/nrf_soc_nosd/nrf_error.h:
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h:
 

@@ -27,7 +27,7 @@ _build/nrf52840_xxaa/nrf_fprintf_format.c.o: \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/compiler_abstraction.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_os.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_errors.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/drivers_nrf/nrf_soc_nosd/nrf_error.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/nrf.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/nrf52840.h \
@@ -41,6 +41,8 @@ _build/nrf52840_xxaa/nrf_fprintf_format.c.o: \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/nrf51_to_nrf52840.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/nrf52_to_nrf52840.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/compiler_abstraction.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf52/nrf_mbr.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_svc.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_macros.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nrf_assert.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm-none-eabi\7.3.1\include\stdarg.h \
@@ -102,7 +104,7 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_errors.h:
 
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/drivers_nrf/nrf_soc_nosd/nrf_error.h:
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util.h:
 
@@ -129,6 +131,10 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/nrf52_to_nrf52840.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/compiler_abstraction.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf52/nrf_mbr.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_svc.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_macros.h:
 

@@ -36,8 +36,15 @@ _build/nrf52840_xxaa/nrfx_atomic.c.o: \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/compiler_abstraction.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf52/nrf_mbr.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_svc.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util_platform.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_soc.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_svc.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error_soc.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_nvic.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nrf_assert.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_error.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\stdio.h \
@@ -57,12 +64,13 @@ _build/nrf52840_xxaa/nrfx_atomic.c.o: \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\machine\types.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\sys\stdio.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_errors.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/drivers_nrf/nrf_soc_nosd/nrf_error.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_error_weak.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/soc/nrfx_coredep.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/soc/nrfx_atomic.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_errors.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_resources.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_sd_def.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/drivers/nrfx_errors.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/soc/nrfx_atomic_internal.h
 
@@ -138,9 +146,23 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h:
 
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf52/nrf_mbr.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_svc.h:
+
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util_platform.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_soc.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_svc.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error_soc.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_nvic.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nrf_assert.h:
 
@@ -180,7 +202,7 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_errors.h:
 
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/drivers_nrf/nrf_soc_nosd/nrf_error.h:
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_error_weak.h:
 
@@ -191,6 +213,8 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_errors.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_resources.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_sd_def.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/drivers/nrfx_errors.h:
 

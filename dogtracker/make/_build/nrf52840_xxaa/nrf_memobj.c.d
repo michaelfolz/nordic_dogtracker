@@ -22,7 +22,7 @@ _build/nrf52840_xxaa/nrf_memobj.c.o: \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\sys\cdefs.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\machine\stdlib.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_errors.h \
- ../../vendor/nRF5_SDK_15.3.0_59ac345//components/drivers_nrf/nrf_soc_nosd/nrf_error.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/balloc/nrf_balloc.h \
  ../config/sdk_config.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util_platform.h \
@@ -39,6 +39,11 @@ _build/nrf52840_xxaa/nrf_memobj.c.o: \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/nrf51_to_nrf52840.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/nrf52_to_nrf52840.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/compiler_abstraction.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_soc.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_svc.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error_soc.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_nvic.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nrf_assert.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_error.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\stdio.h \
@@ -52,6 +57,8 @@ _build/nrf52840_xxaa/nrf_memobj.c.o: \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_error_weak.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf52/nrf_mbr.h \
+ ../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_svc.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/nrf_log_instance.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/experimental_section_vars/nrf_section.h \
  ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nordic_common.h \
@@ -109,7 +116,7 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/sdk_errors.h:
 
-../../vendor/nRF5_SDK_15.3.0_59ac345//components/drivers_nrf/nrf_soc_nosd/nrf_error.h:
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/balloc/nrf_balloc.h:
 
@@ -143,6 +150,16 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//modules/nrfx/mdk/compiler_abstraction.h:
 
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_soc.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_svc.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_error_soc.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_nvic.h:
+
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/nrf_assert.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_error.h:
@@ -168,6 +185,10 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_error_weak.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/util/app_util.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf52/nrf_mbr.h:
+
+../../vendor/nRF5_SDK_15.3.0_59ac345//components/softdevice/s140/headers/nrf_svc.h:
 
 ../../vendor/nRF5_SDK_15.3.0_59ac345//components/libraries/log/nrf_log_instance.h:
 
