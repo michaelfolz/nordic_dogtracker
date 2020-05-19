@@ -97,9 +97,14 @@ SRC_FILES += \
   $(SDK_ROOT)/external/freertos/source/timers.c \
   $(SDK_ROOT)/components/libraries/timer/app_timer_freertos.c \
   $(SDK_ROOT)/integration/nrfx/legacy/nrf_drv_clock.c \
+  $(SDK_ROOT)/integration/nrfx/legacy/nrf_drv_twi.c \
+  $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_twi.c \
+  $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_twim.c \
+  $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_twis.c \
   $(PROJECT_DIR)/src/main.cpp \
   $(PROJECT_DIR)/src/task_led.cpp \
   $(PROJECT_DIR)/src/freeRTOS_tasks.cpp \
+  $(PROJECT_DIR)/drivers/i2c/i2c.c \
 
 # Include folders common to all targets
 INC_FOLDERS += \
@@ -227,6 +232,9 @@ INC_FOLDERS += \
   $(SDK_ROOT)/components \
   $(SDK_ROOT)/modules/nrfx/mdk \
   $(PROJ_DIR) \
+  $(PROJECT_DIR)/drivers/i2c/ \
+  $(PROJECT_DIR)/drivers/ble/ \
+  $(PROJECT_DIR)/drivers/usbd_cdc/ \
   $(SDK_ROOT)/components/softdevice/mbr/nrf52840/headers \
   $(SDK_ROOT)/components/libraries/strerror \
   $(SDK_ROOT)/components/libraries/util \
