@@ -12591,6 +12591,714 @@ Discarded input sections
  .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_led.cpp.o
  .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_led.cpp.o
  .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_led.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .text          0x00000000        0x0 _build/nrf52840_xxaa/task_control.cpp.o
+ .data          0x00000000        0x0 _build/nrf52840_xxaa/task_control.cpp.o
+ .bss           0x00000000        0x0 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0xb7a _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x17b _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x8e _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x51 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0xef _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x6a _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x1df _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x50 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0xe66 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x402 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000    0x10c7a _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0xa65 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x96 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x26 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x9a _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x46 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0xa3 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x3a _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x5e _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x18 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x34 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x353 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x58 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x43 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x18e _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x52 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0xd7 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x3d _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x137 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0xa7 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x49 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x8c _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x18a _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x12 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x15a _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x2e _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x79e _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0xd6 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x43a _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0xb5 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x8c _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x91 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000     0x1f9c _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x429 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x52 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0xe62 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x148 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x45 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x19 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x1d _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x7b _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x9a _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_control.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .text          0x00000000        0x0 _build/nrf52840_xxaa/task_ble.cpp.o
+ .data          0x00000000        0x0 _build/nrf52840_xxaa/task_ble.cpp.o
+ .bss           0x00000000        0x0 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0xb7a _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x17b _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x8e _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x51 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0xef _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x6a _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x1df _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x50 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0xe66 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x402 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000    0x10c7a _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0xa65 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x96 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x26 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x9a _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x46 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0xa3 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x3a _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x5e _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x18 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x34 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x353 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x58 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x43 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x18e _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x52 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0xd7 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x3d _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x137 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0xa7 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x49 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x8c _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x18a _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x12 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x15a _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x2e _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x79e _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0xd6 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x43a _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0xb5 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x8c _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x91 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000     0x1f9c _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x429 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x52 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0xe62 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x148 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x45 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x19 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x1d _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x7b _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x9a _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_ble.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .text          0x00000000        0x0 _build/nrf52840_xxaa/task_imu.cpp.o
+ .data          0x00000000        0x0 _build/nrf52840_xxaa/task_imu.cpp.o
+ .bss           0x00000000        0x0 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0xb7a _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x17b _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x8e _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x51 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0xef _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x6a _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x1df _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x50 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0xe66 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x402 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000    0x10c7a _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0xa65 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x96 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x26 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x9a _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x46 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0xa3 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x3a _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x5e _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x18 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x34 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x353 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x58 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x43 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x18e _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x52 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0xd7 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x3d _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x137 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0xa7 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x49 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x8c _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x18a _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x12 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x15a _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x2e _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x79e _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0xd6 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x43a _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0xb5 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x8c _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x91 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000     0x1f9c _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x429 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x52 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0xe62 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x148 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x45 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x19 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x1d _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x7b _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x9a _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_imu.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .text          0x00000000        0x0 _build/nrf52840_xxaa/task_debug.cpp.o
+ .data          0x00000000        0x0 _build/nrf52840_xxaa/task_debug.cpp.o
+ .bss           0x00000000        0x0 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0xb7a _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x17b _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x8e _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x51 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0xef _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x6a _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x1df _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x50 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0xe66 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x402 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000    0x10c7a _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0xa65 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x96 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x26 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x9a _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x46 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0xa3 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x3a _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x5e _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x18 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x34 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x353 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x58 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x43 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x18e _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x52 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0xd7 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x3d _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x137 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0xa7 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x49 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x8c _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x18a _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x12 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x15a _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x2e _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x79e _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0xd6 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x43a _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0xb5 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x8c _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x91 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000     0x1f9c _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x429 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x52 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0xe62 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x148 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x45 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x19 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x1d _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x7b _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x40 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x9a _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/task_debug.cpp.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
@@ -12683,6 +13391,8 @@ Discarded input sections
  .bss           0x00000000        0x0 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
  .ARM.extab.text._Z19freeRTOS_StartTasksv
                 0x00000000        0x0 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+ .bss.usbd_toggle_task_handle
+                0x00000000        0x4 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
  .debug_macro   0x00000000      0xb7a _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
  .debug_macro   0x00000000      0x17b _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
  .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
@@ -13143,7 +13853,7 @@ RAM              0x200022e0         0x0003dd20         xrw
 Linker script and memory map
 
 
-.text           0x00026000     0xd668
+.text           0x00026000     0xd750
  *(.isr_vector)
  .isr_vector    0x00026000      0x200 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
                 0x00026000                __isr_vector
@@ -13927,104 +14637,116 @@ Linker script and memory map
  .text._Z24led_toggle_task_functionPv
                 0x00030d94       0x1c _build/nrf52840_xxaa/task_led.cpp.o
                 0x00030d94                led_toggle_task_function(void*)
+ .text._Z21control_task_functionPv
+                0x00030db0        0xc _build/nrf52840_xxaa/task_control.cpp.o
+                0x00030db0                control_task_function(void*)
+ .text._Z17ble_task_functionPv
+                0x00030dbc        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+                0x00030dbc                ble_task_function(void*)
+ .text._Z17imu_task_functionPv
+                0x00030dc8        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+                0x00030dc8                imu_task_function(void*)
+ .text._Z19debug_task_functionPv
+                0x00030dd4        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+                0x00030dd4                debug_task_function(void*)
  .text._Z19freeRTOS_StartTasksv
-                0x00030db0       0x30 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
-                0x00030db0                freeRTOS_StartTasks()
- .text.exit     0x00030de0       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
-                0x00030de0                exit
+                0x00030de0       0xac _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+                0x00030de0                freeRTOS_StartTasks()
+ .text.exit     0x00030e8c       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+                0x00030e8c                exit
  .text.__libc_init_array
-                0x00030e08       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
-                0x00030e08                __libc_init_array
+                0x00030eb4       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+                0x00030eb4                __libc_init_array
  .text.__locale_ctype_ptr
-                0x00030e50       0x1c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
-                0x00030e50                __locale_ctype_ptr
+                0x00030efc       0x1c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
+                0x00030efc                __locale_ctype_ptr
  .text.__ascii_mbtowc
-                0x00030e6c       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
-                0x00030e6c                __ascii_mbtowc
- .text.memcmp   0x00030e90       0x1e c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcmp.o)
-                0x00030e90                memcmp
- .text.memcpy   0x00030eae       0x16 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
-                0x00030eae                memcpy
- .text.memset   0x00030ec4       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
-                0x00030ec4                memset
- .text          0x00030ed4       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
-                0x00030ed4                strlen
+                0x00030f18       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
+                0x00030f18                __ascii_mbtowc
+ .text.memcmp   0x00030f3c       0x1e c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcmp.o)
+                0x00030f3c                memcmp
+ .text.memcpy   0x00030f5a       0x16 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                0x00030f5a                memcpy
+ .text.memset   0x00030f70       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+                0x00030f70                memset
+ .text          0x00030f80       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+                0x00030f80                strlen
  .text.__ascii_wctomb
-                0x00030ee4       0x1a c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
-                0x00030ee4                __ascii_wctomb
- *fill*         0x00030efe        0x2 
- .text._exit    0x00030f00        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
-                0x00030f00                _exit
- .text          0x00030f04      0x9ec c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(unwind-arm.o)
-                0x000311b8                _Unwind_GetCFA
-                0x000311bc                __gnu_Unwind_RaiseException
-                0x0003121c                __gnu_Unwind_ForcedUnwind
-                0x00031230                __gnu_Unwind_Resume
-                0x00031274                __gnu_Unwind_Resume_or_Rethrow
-                0x00031284                _Unwind_Complete
-                0x00031288                _Unwind_DeleteException
-                0x00031294                _Unwind_VRS_Get
-                0x000312d8                _Unwind_VRS_Set
-                0x00031320                __gnu_Unwind_Backtrace
-                0x00031664                __aeabi_unwind_cpp_pr0
-                0x00031668                __aeabi_unwind_cpp_pr1
-                0x0003166c                __aeabi_unwind_cpp_pr2
-                0x00031670                _Unwind_VRS_Pop
- .text          0x000318f0      0x1ac c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(libunwind.o)
-                0x000318f0                __restore_core_regs
-                0x000318f0                restore_core_regs
-                0x00031908                __gnu_Unwind_Restore_VFP
-                0x00031910                __gnu_Unwind_Save_VFP
-                0x00031918                __gnu_Unwind_Restore_VFP_D
-                0x00031920                __gnu_Unwind_Save_VFP_D
-                0x00031928                __gnu_Unwind_Restore_VFP_D_16_to_31
-                0x00031930                __gnu_Unwind_Save_VFP_D_16_to_31
-                0x00031938                __gnu_Unwind_Restore_WMMXD
-                0x0003197c                __gnu_Unwind_Save_WMMXD
-                0x000319c0                __gnu_Unwind_Restore_WMMXC
-                0x000319d4                __gnu_Unwind_Save_WMMXC
-                0x000319e8                ___Unwind_RaiseException
-                0x000319e8                _Unwind_RaiseException
-                0x00031a0c                _Unwind_Resume
-                0x00031a0c                ___Unwind_Resume
-                0x00031a30                _Unwind_Resume_or_Rethrow
-                0x00031a30                ___Unwind_Resume_or_Rethrow
-                0x00031a54                _Unwind_ForcedUnwind
-                0x00031a54                ___Unwind_ForcedUnwind
-                0x00031a78                ___Unwind_Backtrace
-                0x00031a78                _Unwind_Backtrace
- .text          0x00031a9c      0x374 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(pr-support.o)
-                0x00031af4                __gnu_unwind_execute
-                0x00031db8                __gnu_unwind_frame
-                0x00031de0                _Unwind_GetRegionStart
-                0x00031dec                _Unwind_GetLanguageSpecificData
-                0x00031e00                _Unwind_GetDataRelBase
-                0x00031e08                _Unwind_GetTextRelBase
- .text.abort    0x00031e10        0xe c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-abort.o)
-                0x00031e10                abort
+                0x00030f90       0x1a c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
+                0x00030f90                __ascii_wctomb
+ *fill*         0x00030faa        0x2 
+ .text._exit    0x00030fac        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                0x00030fac                _exit
+ .text          0x00030fb0      0x9ec c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(unwind-arm.o)
+                0x00031264                _Unwind_GetCFA
+                0x00031268                __gnu_Unwind_RaiseException
+                0x000312c8                __gnu_Unwind_ForcedUnwind
+                0x000312dc                __gnu_Unwind_Resume
+                0x00031320                __gnu_Unwind_Resume_or_Rethrow
+                0x00031330                _Unwind_Complete
+                0x00031334                _Unwind_DeleteException
+                0x00031340                _Unwind_VRS_Get
+                0x00031384                _Unwind_VRS_Set
+                0x000313cc                __gnu_Unwind_Backtrace
+                0x00031710                __aeabi_unwind_cpp_pr0
+                0x00031714                __aeabi_unwind_cpp_pr1
+                0x00031718                __aeabi_unwind_cpp_pr2
+                0x0003171c                _Unwind_VRS_Pop
+ .text          0x0003199c      0x1ac c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(libunwind.o)
+                0x0003199c                __restore_core_regs
+                0x0003199c                restore_core_regs
+                0x000319b4                __gnu_Unwind_Restore_VFP
+                0x000319bc                __gnu_Unwind_Save_VFP
+                0x000319c4                __gnu_Unwind_Restore_VFP_D
+                0x000319cc                __gnu_Unwind_Save_VFP_D
+                0x000319d4                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x000319dc                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x000319e4                __gnu_Unwind_Restore_WMMXD
+                0x00031a28                __gnu_Unwind_Save_WMMXD
+                0x00031a6c                __gnu_Unwind_Restore_WMMXC
+                0x00031a80                __gnu_Unwind_Save_WMMXC
+                0x00031a94                ___Unwind_RaiseException
+                0x00031a94                _Unwind_RaiseException
+                0x00031ab8                _Unwind_Resume
+                0x00031ab8                ___Unwind_Resume
+                0x00031adc                _Unwind_Resume_or_Rethrow
+                0x00031adc                ___Unwind_Resume_or_Rethrow
+                0x00031b00                _Unwind_ForcedUnwind
+                0x00031b00                ___Unwind_ForcedUnwind
+                0x00031b24                ___Unwind_Backtrace
+                0x00031b24                _Unwind_Backtrace
+ .text          0x00031b48      0x374 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(pr-support.o)
+                0x00031ba0                __gnu_unwind_execute
+                0x00031e64                __gnu_unwind_frame
+                0x00031e8c                _Unwind_GetRegionStart
+                0x00031e98                _Unwind_GetLanguageSpecificData
+                0x00031eac                _Unwind_GetDataRelBase
+                0x00031eb4                _Unwind_GetTextRelBase
+ .text.abort    0x00031ebc        0xe c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-abort.o)
+                0x00031ebc                abort
  .text._raise_r
-                0x00031e1e       0x50 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-signal.o)
-                0x00031e1e                _raise_r
- *fill*         0x00031e6e        0x2 
- .text.raise    0x00031e70       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-signal.o)
-                0x00031e70                raise
- .text._kill_r  0x00031e80       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-signalr.o)
-                0x00031e80                _kill_r
+                0x00031eca       0x50 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-signal.o)
+                0x00031eca                _raise_r
+ *fill*         0x00031f1a        0x2 
+ .text.raise    0x00031f1c       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-signal.o)
+                0x00031f1c                raise
+ .text._kill_r  0x00031f2c       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-signalr.o)
+                0x00031f2c                _kill_r
  .text._getpid_r
-                0x00031ea4        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-signalr.o)
-                0x00031ea4                _getpid_r
- .text._getpid  0x00031ea8       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(getpid.o)
-                0x00031ea8                _getpid
- .text._kill    0x00031eb8       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(kill.o)
-                0x00031eb8                _kill
+                0x00031f50        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-signalr.o)
+                0x00031f50                _getpid_r
+ .text._getpid  0x00031f54       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(getpid.o)
+                0x00031f54                _getpid
+ .text._kill    0x00031f64       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(kill.o)
+                0x00031f64                _kill
  *(.init)
- .init          0x00031ec8        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
-                0x00031ec8                _init
- .init          0x00031ecc        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .init          0x00031f74        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00031f74                _init
+ .init          0x00031f78        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
  *(.fini)
- .fini          0x00031ed4        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
-                0x00031ed4                _fini
- .fini          0x00031ed8        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .fini          0x00031f80        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00031f80                _fini
+ .fini          0x00031f84        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
  *crtbegin.o(.ctors)
  *crtbegin?.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
@@ -14036,445 +14758,462 @@ Linker script and memory map
  *(SORT_BY_NAME(.dtors.*))
  *(.dtors)
  *(.rodata*)
+ *fill*         0x00031f8c        0x4 
  .rodata.delay_machine_code.9309
-                0x00031ee0        0x6 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
- *fill*         0x00031ee6        0x2 
+                0x00031f90        0x6 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
+ *fill*         0x00031f96        0x2 
  .rodata.nrf_log_backend_rtt_api
-                0x00031ee8        0xc _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
-                0x00031ee8                nrf_log_backend_rtt_api
- .rodata        0x00031ef4       0x20 _build/nrf52840_xxaa/nrf_log_backend_uart.c.o
+                0x00031f98        0xc _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
+                0x00031f98                nrf_log_backend_rtt_api
+ .rodata        0x00031fa4       0x20 _build/nrf52840_xxaa/nrf_log_backend_uart.c.o
  .rodata.nrf_log_backend_uart_api
-                0x00031f14        0xc _build/nrf52840_xxaa/nrf_log_backend_uart.c.o
-                0x00031f14                nrf_log_backend_uart_api
+                0x00031fc4        0xc _build/nrf52840_xxaa/nrf_log_backend_uart.c.o
+                0x00031fc4                nrf_log_backend_uart_api
  .rodata.str1.4
-                0x00031f20       0x24 _build/nrf52840_xxaa/nrf_log_default_backends.c.o
+                0x00031fd0       0x24 _build/nrf52840_xxaa/nrf_log_default_backends.c.o
  .rodata.nrf_log_frontend_dequeue.part.6.str1.4
-                0x00031f44       0x11 _build/nrf52840_xxaa/nrf_log_frontend.c.o
- *fill*         0x00031f55        0x3 
+                0x00031ff4       0x11 _build/nrf52840_xxaa/nrf_log_frontend.c.o
+ *fill*         0x00032005        0x3 
  .rodata.str1.4
-                0x00031f58        0x4 _build/nrf52840_xxaa/nrf_log_frontend.c.o
+                0x00032008        0x4 _build/nrf52840_xxaa/nrf_log_frontend.c.o
  .rodata.m_colors
-                0x00031f5c       0x24 _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
+                0x0003200c       0x24 _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
  .rodata.nrf_log_hexdump_entry_process.str1.4
-                0x00031f80       0x13 _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
+                0x00032030       0x13 _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
                                  0x16 (size before relaxing)
- *fill*         0x00031f93        0x1 
+ *fill*         0x00032043        0x1 
  .rodata.nrf_log_std_entry_process.str1.4
-                0x00031f94       0x3b _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
- *fill*         0x00031fcf        0x1 
+                0x00032044       0x3b _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
+ *fill*         0x0003207f        0x1 
  .rodata.severity_names
-                0x00031fd0       0x14 _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
+                0x00032080       0x14 _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
  .rodata.str1.4
-                0x00031fe4       0x56 _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
- *fill*         0x0003203a        0x2 
+                0x00032094       0x56 _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
+ *fill*         0x000320ea        0x2 
  .rodata.app_error_fault_handler.str1.4
-                0x0003203c       0x19 _build/nrf52840_xxaa/app_error_weak.c.o
- *fill*         0x00032055        0x3 
+                0x000320ec       0x19 _build/nrf52840_xxaa/app_error_weak.c.o
+ *fill*         0x00032105        0x3 
  .rodata.dirty_header.9362
-                0x00032058        0x4 _build/nrf52840_xxaa/fds.c.o
+                0x00032108        0x4 _build/nrf52840_xxaa/fds.c.o
  .rodata.page_tag_data.9235
-                0x0003205c        0x8 _build/nrf52840_xxaa/fds.c.o
+                0x0003210c        0x8 _build/nrf52840_xxaa/fds.c.o
  .rodata.page_tag_swap.9231
-                0x00032064        0x8 _build/nrf52840_xxaa/fds.c.o
+                0x00032114        0x8 _build/nrf52840_xxaa/fds.c.o
  .rodata._aV2C.7694
-                0x0003206c       0x10 _build/nrf52840_xxaa/nrf_fprintf_format.c.o
+                0x0003211c       0x10 _build/nrf52840_xxaa/nrf_fprintf_format.c.o
  .rodata.__func__.7887
-                0x0003207c       0x13 _build/nrf52840_xxaa/nrf_fstorage.c.o
- *fill*         0x0003208f        0x1 
+                0x0003212c       0x13 _build/nrf52840_xxaa/nrf_fstorage.c.o
+ *fill*         0x0003213f        0x1 
  .rodata.__func__.7894
-                0x00032090       0x13 _build/nrf52840_xxaa/nrf_fstorage.c.o
- *fill*         0x000320a3        0x1 
+                0x00032140       0x13 _build/nrf52840_xxaa/nrf_fstorage.c.o
+ *fill*         0x00032153        0x1 
  .rodata.nrf_fstorage_erase.str1.4
-                0x000320a4       0x77 _build/nrf52840_xxaa/nrf_fstorage.c.o
- *fill*         0x0003211b        0x1 
+                0x00032154       0x77 _build/nrf52840_xxaa/nrf_fstorage.c.o
+ *fill*         0x000321cb        0x1 
  .rodata.nrf_fstorage_init.str1.4
-                0x0003211c       0x3a _build/nrf52840_xxaa/nrf_fstorage.c.o
- *fill*         0x00032156        0x2 
+                0x000321cc       0x3a _build/nrf52840_xxaa/nrf_fstorage.c.o
+ *fill*         0x00032206        0x2 
  .rodata.nrf_fstorage_read.str1.4
-                0x00032158       0x4a _build/nrf52840_xxaa/nrf_fstorage.c.o
- *fill*         0x000321a2        0x2 
+                0x00032208       0x4a _build/nrf52840_xxaa/nrf_fstorage.c.o
+ *fill*         0x00032252        0x2 
  .rodata.nrf_fstorage_uninit.str1.4
-                0x000321a4        0xc _build/nrf52840_xxaa/nrf_fstorage.c.o
+                0x00032254        0xc _build/nrf52840_xxaa/nrf_fstorage.c.o
  .rodata.nrf_fstorage_write.str1.4
-                0x000321b0       0x97 _build/nrf52840_xxaa/nrf_fstorage.c.o
- *fill*         0x00032247        0x1 
+                0x00032260       0x97 _build/nrf52840_xxaa/nrf_fstorage.c.o
+ *fill*         0x000322f7        0x1 
  .rodata.str1.4
-                0x00032248        0xd _build/nrf52840_xxaa/nrf_fstorage.c.o
- *fill*         0x00032255        0x3 
+                0x000322f8        0xd _build/nrf52840_xxaa/nrf_fstorage.c.o
+ *fill*         0x00032305        0x3 
  .rodata.str1.4
-                0x00032258        0x9 _build/nrf52840_xxaa/nrf_pwr_mgmt.c.o
- *fill*         0x00032261        0x3 
+                0x00032308        0x9 _build/nrf52840_xxaa/nrf_pwr_mgmt.c.o
+ *fill*         0x00032311        0x3 
  .rodata.m_unknown_str
-                0x00032264       0x13 _build/nrf52840_xxaa/nrf_strerror.c.o
- *fill*         0x00032277        0x1 
+                0x00032314       0x13 _build/nrf52840_xxaa/nrf_strerror.c.o
+ *fill*         0x00032327        0x1 
  .rodata.nrf_strerror_array
-                0x00032278      0x128 _build/nrf52840_xxaa/nrf_strerror.c.o
+                0x00032328      0x128 _build/nrf52840_xxaa/nrf_strerror.c.o
  .rodata.str1.4
-                0x000323a0      0x3e9 _build/nrf52840_xxaa/nrf_strerror.c.o
- *fill*         0x00032789        0x3 
+                0x00032450      0x3e9 _build/nrf52840_xxaa/nrf_strerror.c.o
+ *fill*         0x00032839        0x3 
  .rodata.str1.4
-                0x0003278c        0x6 _build/nrf52840_xxaa/nrfx_clock.c.o
- *fill*         0x00032792        0x2 
+                0x0003283c        0x6 _build/nrf52840_xxaa/nrfx_clock.c.o
+ *fill*         0x00032842        0x2 
  .rodata.str1.4
-                0x00032794        0x7 _build/nrf52840_xxaa/nrfx_gpiote.c.o
- *fill*         0x0003279b        0x1 
+                0x00032844        0x7 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+ *fill*         0x0003284b        0x1 
  .rodata.str1.4
-                0x0003279c        0x4 _build/nrf52840_xxaa/nrfx_prs.c.o
+                0x0003284c        0x4 _build/nrf52840_xxaa/nrfx_prs.c.o
  .rodata.str1.4
-                0x000327a0        0x5 _build/nrf52840_xxaa/nrfx_uart.c.o
- *fill*         0x000327a5        0x3 
+                0x00032850        0x5 _build/nrf52840_xxaa/nrfx_uart.c.o
+ *fill*         0x00032855        0x3 
  .rodata.str1.4
-                0x000327a8        0x6 _build/nrf52840_xxaa/nrfx_uarte.c.o
- *fill*         0x000327ae        0x2 
- .rodata        0x000327b0        0x4 _build/nrf52840_xxaa/gatt_cache_manager.c.o
+                0x00032858        0x6 _build/nrf52840_xxaa/nrfx_uarte.c.o
+ *fill*         0x0003285e        0x2 
+ .rodata        0x00032860        0x4 _build/nrf52840_xxaa/gatt_cache_manager.c.o
  .rodata.car_value_false.11144
-                0x000327b4        0x4 _build/nrf52840_xxaa/gatt_cache_manager.c.o
+                0x00032864        0x4 _build/nrf52840_xxaa/gatt_cache_manager.c.o
  .rodata.car_value_true.11143
-                0x000327b8        0x4 _build/nrf52840_xxaa/gatt_cache_manager.c.o
+                0x00032868        0x4 _build/nrf52840_xxaa/gatt_cache_manager.c.o
  .rodata.db_update_pending_handle.str1.4
-                0x000327bc       0x75 _build/nrf52840_xxaa/gatt_cache_manager.c.o
- *fill*         0x00032831        0x3 
+                0x0003286c       0x75 _build/nrf52840_xxaa/gatt_cache_manager.c.o
+ *fill*         0x000328e1        0x3 
  .rodata.gcm_ble_evt_handler.str1.4
-                0x00032834       0xb2 _build/nrf52840_xxaa/gatt_cache_manager.c.o
- *fill*         0x000328e6        0x2 
+                0x000328e4       0xb2 _build/nrf52840_xxaa/gatt_cache_manager.c.o
+ *fill*         0x00032996        0x2 
  .rodata.local_db_apply_in_evt.str1.4
-                0x000328e8       0xd1 _build/nrf52840_xxaa/gatt_cache_manager.c.o
- *fill*         0x000329b9        0x3 
+                0x00032998       0xd1 _build/nrf52840_xxaa/gatt_cache_manager.c.o
+ *fill*         0x00032a69        0x3 
  .rodata.sc_send_pending_handle.str1.4
-                0x000329bc       0x40 _build/nrf52840_xxaa/gatt_cache_manager.c.o
+                0x00032a6c       0x40 _build/nrf52840_xxaa/gatt_cache_manager.c.o
  .rodata.store_car_value.str1.4
-                0x000329fc       0x5d _build/nrf52840_xxaa/gatt_cache_manager.c.o
- *fill*         0x00032a59        0x3 
+                0x00032aac       0x5d _build/nrf52840_xxaa/gatt_cache_manager.c.o
+ *fill*         0x00032b09        0x3 
  .rodata.str1.4
-                0x00032a5c       0x11 _build/nrf52840_xxaa/gatt_cache_manager.c.o
- *fill*         0x00032a6d        0x3 
- .rodata        0x00032a70       0x10 _build/nrf52840_xxaa/gatts_cache_manager.c.o
+                0x00032b0c       0x11 _build/nrf52840_xxaa/gatt_cache_manager.c.o
+ *fill*         0x00032b1d        0x3 
+ .rodata        0x00032b20       0x10 _build/nrf52840_xxaa/gatts_cache_manager.c.o
  .rodata.gscm_local_db_cache_apply.str1.4
-                0x00032a80       0x78 _build/nrf52840_xxaa/gatts_cache_manager.c.o
+                0x00032b30       0x78 _build/nrf52840_xxaa/gatts_cache_manager.c.o
  .rodata.gscm_local_db_cache_update.str1.4
-                0x00032af8       0x7f _build/nrf52840_xxaa/gatts_cache_manager.c.o
- *fill*         0x00032b77        0x1 
+                0x00032ba8       0x7f _build/nrf52840_xxaa/gatts_cache_manager.c.o
+ *fill*         0x00032c27        0x1 
  .rodata.gscm_service_changed_ind_send.str1.4
-                0x00032b78       0x4c _build/nrf52840_xxaa/gatts_cache_manager.c.o
+                0x00032c28       0x4c _build/nrf52840_xxaa/gatts_cache_manager.c.o
  .rodata.service_changed_pending.10847
-                0x00032bc4        0x4 _build/nrf52840_xxaa/gatts_cache_manager.c.o
+                0x00032c74        0x4 _build/nrf52840_xxaa/gatts_cache_manager.c.o
  .rodata.service_changed_pending.10904
-                0x00032bc8        0x4 _build/nrf52840_xxaa/gatts_cache_manager.c.o
+                0x00032c78        0x4 _build/nrf52840_xxaa/gatts_cache_manager.c.o
  .rodata.service_changed_pending_set.str1.4
-                0x00032bcc       0x55 _build/nrf52840_xxaa/gatts_cache_manager.c.o
- *fill*         0x00032c21        0x3 
+                0x00032c7c       0x55 _build/nrf52840_xxaa/gatts_cache_manager.c.o
+ *fill*         0x00032cd1        0x3 
  .rodata.str1.4
-                0x00032c24       0x12 _build/nrf52840_xxaa/gatts_cache_manager.c.o
- *fill*         0x00032c36        0x2 
+                0x00032cd4       0x12 _build/nrf52840_xxaa/gatts_cache_manager.c.o
+ *fill*         0x00032ce6        0x2 
  .rodata.str1.4
-                0x00032c38       0x10 _build/nrf52840_xxaa/id_manager.c.o
+                0x00032ce8       0x10 _build/nrf52840_xxaa/id_manager.c.o
  .rodata.str1.4
-                0x00032c48        0xd _build/nrf52840_xxaa/nrf_ble_gatt.c.o
- *fill*         0x00032c55        0x3 
+                0x00032cf8        0xd _build/nrf52840_xxaa/nrf_ble_gatt.c.o
+ *fill*         0x00032d05        0x3 
  .rodata.pds_peer_data_store.str1.4
-                0x00032c58       0x56 _build/nrf52840_xxaa/peer_data_storage.c.o
- *fill*         0x00032cae        0x2 
+                0x00032d08       0x56 _build/nrf52840_xxaa/peer_data_storage.c.o
+ *fill*         0x00032d5e        0x2 
  .rodata.peer_data_delete_process.str1.4
-                0x00032cb0       0x4c _build/nrf52840_xxaa/peer_data_storage.c.o
+                0x00032d60       0x4c _build/nrf52840_xxaa/peer_data_storage.c.o
  .rodata.str1.4
-                0x00032cfc       0x11 _build/nrf52840_xxaa/peer_data_storage.c.o
- *fill*         0x00032d0d        0x3 
+                0x00032dac       0x11 _build/nrf52840_xxaa/peer_data_storage.c.o
+ *fill*         0x00032dbd        0x3 
  .rodata.pdb_pds_evt_handler.str1.4
-                0x00032d10       0x60 _build/nrf52840_xxaa/peer_database.c.o
+                0x00032dc0       0x60 _build/nrf52840_xxaa/peer_database.c.o
  .rodata.pdb_peer_free.str1.4
-                0x00032d70       0x52 _build/nrf52840_xxaa/peer_database.c.o
- *fill*         0x00032dc2        0x2 
+                0x00032e20       0x52 _build/nrf52840_xxaa/peer_database.c.o
+ *fill*         0x00032e72        0x2 
  .rodata.pdb_write_buf_get.str1.4
-                0x00032dc4       0x74 _build/nrf52840_xxaa/peer_database.c.o
+                0x00032e74       0x74 _build/nrf52840_xxaa/peer_database.c.o
  .rodata.str1.4
-                0x00032e38       0x11 _build/nrf52840_xxaa/peer_database.c.o
- *fill*         0x00032e49        0x3 
+                0x00032ee8       0x11 _build/nrf52840_xxaa/peer_database.c.o
+ *fill*         0x00032ef9        0x3 
  .rodata.write_buf_store.str1.4
-                0x00032e4c       0x6f _build/nrf52840_xxaa/peer_database.c.o
- *fill*         0x00032ebb        0x1 
+                0x00032efc       0x6f _build/nrf52840_xxaa/peer_database.c.o
+ *fill*         0x00032f6b        0x1 
  .rodata.pm_peer_ranks_get.part.4.str1.4
-                0x00032ebc       0x48 _build/nrf52840_xxaa/peer_manager.c.o
+                0x00032f6c       0x48 _build/nrf52840_xxaa/peer_manager.c.o
  .rodata.str1.4
-                0x00032f04        0xd _build/nrf52840_xxaa/peer_manager.c.o
- *fill*         0x00032f11        0x3 
+                0x00032fb4        0xd _build/nrf52840_xxaa/peer_manager.c.o
+ *fill*         0x00032fc1        0x3 
  .rodata.str1.4
-                0x00032f14      0x121 _build/nrf52840_xxaa/peer_manager_handler.c.o
- *fill*         0x00033035        0x3 
+                0x00032fc4      0x121 _build/nrf52840_xxaa/peer_manager_handler.c.o
+ *fill*         0x000330e5        0x3 
  .rodata.auth_status_success_process.str1.4
-                0x00033038       0xe6 _build/nrf52840_xxaa/security_dispatcher.c.o
- *fill*         0x0003311e        0x2 
+                0x000330e8       0xe6 _build/nrf52840_xxaa/security_dispatcher.c.o
+ *fill*         0x000331ce        0x2 
  .rodata.smd_ble_evt_handler.str1.4
-                0x00033120      0x14c _build/nrf52840_xxaa/security_dispatcher.c.o
+                0x000331d0      0x14c _build/nrf52840_xxaa/security_dispatcher.c.o
  .rodata.smd_params_reply.str1.4
-                0x0003326c       0xb2 _build/nrf52840_xxaa/security_dispatcher.c.o
- *fill*         0x0003331e        0x2 
+                0x0003331c       0xb2 _build/nrf52840_xxaa/security_dispatcher.c.o
+ *fill*         0x000333ce        0x2 
  .rodata.str1.4
-                0x00033320       0x11 _build/nrf52840_xxaa/security_dispatcher.c.o
- *fill*         0x00033331        0x3 
+                0x000333d0       0x11 _build/nrf52840_xxaa/security_dispatcher.c.o
+ *fill*         0x000333e1        0x3 
  .rodata.link_secure_pending_handle.str1.4
-                0x00033334       0x55 _build/nrf52840_xxaa/security_manager.c.o
- *fill*         0x00033389        0x3 
+                0x000333e4       0x55 _build/nrf52840_xxaa/security_manager.c.o
+ *fill*         0x00033439        0x3 
  .rodata.params_reply_pending_handle.str1.4
-                0x0003338c      0x123 _build/nrf52840_xxaa/security_manager.c.o
- *fill*         0x000334af        0x1 
+                0x0003343c      0x123 _build/nrf52840_xxaa/security_manager.c.o
+ *fill*         0x0003355f        0x1 
  .rodata.str1.4
-                0x000334b0       0x10 _build/nrf52840_xxaa/security_manager.c.o
+                0x00033560       0x10 _build/nrf52840_xxaa/security_manager.c.o
  .rodata.str1.4
-                0x000334c0        0x8 _build/nrf52840_xxaa/ble_bas.c.o
- .rodata        0x000334c8        0x4 _build/nrf52840_xxaa/nrf_sdh.c.o
+                0x00033570        0x8 _build/nrf52840_xxaa/ble_bas.c.o
+ .rodata        0x00033578        0x4 _build/nrf52840_xxaa/nrf_sdh.c.o
  .rodata.sdh_req_observers
-                0x000334cc        0xc _build/nrf52840_xxaa/nrf_sdh.c.o
+                0x0003357c        0xc _build/nrf52840_xxaa/nrf_sdh.c.o
  .rodata.sdh_stack_observers
-                0x000334d8        0xc _build/nrf52840_xxaa/nrf_sdh.c.o
+                0x00033588        0xc _build/nrf52840_xxaa/nrf_sdh.c.o
  .rodata.sdh_state_observers
-                0x000334e4        0xc _build/nrf52840_xxaa/nrf_sdh.c.o
+                0x00033594        0xc _build/nrf52840_xxaa/nrf_sdh.c.o
  .rodata.str1.4
-                0x000334f0        0x8 _build/nrf52840_xxaa/nrf_sdh.c.o
+                0x000335a0        0x8 _build/nrf52840_xxaa/nrf_sdh.c.o
  .rodata.sdh_ble_observers
-                0x000334f8        0xc _build/nrf52840_xxaa/nrf_sdh_ble.c.o
+                0x000335a8        0xc _build/nrf52840_xxaa/nrf_sdh_ble.c.o
  .rodata.str1.4
-                0x00033504        0xc _build/nrf52840_xxaa/nrf_sdh_ble.c.o
+                0x000335b4        0xc _build/nrf52840_xxaa/nrf_sdh_ble.c.o
  .rodata.sdh_soc_observers
-                0x00033510        0xc _build/nrf52840_xxaa/nrf_sdh_soc.c.o
+                0x000335c0        0xc _build/nrf52840_xxaa/nrf_sdh_soc.c.o
  .rodata.str1.4
-                0x0003351c        0xc _build/nrf52840_xxaa/nrf_sdh_soc.c.o
+                0x000335cc        0xc _build/nrf52840_xxaa/nrf_sdh_soc.c.o
  .rodata.m_board_led_list
-                0x00033528        0x4 _build/nrf52840_xxaa/boards.c.o
+                0x000335d8        0x4 _build/nrf52840_xxaa/boards.c.o
  .rodata.xTimerCreateTimerTask.str1.4
-                0x0003352c       0x10 _build/nrf52840_xxaa/timers.c.o
+                0x000335dc       0x10 _build/nrf52840_xxaa/timers.c.o
  .rodata.str1.4
-                0x0003353c        0x6 _build/nrf52840_xxaa/nrf_drv_clock.c.o
- *fill*         0x00033542        0x2 
+                0x000335ec        0x6 _build/nrf52840_xxaa/nrf_drv_clock.c.o
+ *fill*         0x000335f2        0x2 
  .rodata.str1.4
-                0x00033544        0x5 _build/nrf52840_xxaa/nrfx_twim.c.o
- *fill*         0x00033549        0x3 
+                0x000335f4        0x5 _build/nrf52840_xxaa/nrfx_twim.c.o
+ *fill*         0x000335f9        0x3 
  .rodata._Z19freeRTOS_StartTasksv.str1.4
-                0x0003354c        0x8 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
-                                  0x5 (size before relaxing)
+                0x000335fc       0x40 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+                                 0x3d (size before relaxing)
  .rodata._global_impure_ptr
-                0x00033554        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
-                0x00033554                _global_impure_ptr
+                0x0003363c        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x0003363c                _global_impure_ptr
  .rodata._setlocale_r.str1.1
-                0x00033558        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
+                0x00033640        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
                                   0x9 (size before relaxing)
  .rodata.str1.1
-                0x00033560        0x2 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
+                0x00033648        0x2 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
  .rodata._ctype_
-                0x00033562      0x101 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
-                0x00033562                _ctype_
+                0x0003364a      0x101 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
+                0x0003364a                _ctype_
  *(.eh_frame*)
- *fill*         0x00033663        0x1 
- .eh_frame      0x00033664        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
- .eh_frame      0x00033664        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ *fill*         0x0003374b        0x1 
+ .eh_frame      0x0003374c        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .eh_frame      0x0003374c        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
 
-.glue_7         0x00033668        0x0
- .glue_7        0x00033668        0x0 linker stubs
+.glue_7         0x00033750        0x0
+ .glue_7        0x00033750        0x0 linker stubs
 
-.glue_7t        0x00033668        0x0
- .glue_7t       0x00033668        0x0 linker stubs
+.glue_7t        0x00033750        0x0
+ .glue_7t       0x00033750        0x0 linker stubs
 
-.vfp11_veneer   0x00033668        0x0
- .vfp11_veneer  0x00033668        0x0 linker stubs
+.vfp11_veneer   0x00033750        0x0
+ .vfp11_veneer  0x00033750        0x0 linker stubs
 
-.v4_bx          0x00033668        0x0
- .v4_bx         0x00033668        0x0 linker stubs
+.v4_bx          0x00033750        0x0
+ .v4_bx         0x00033750        0x0 linker stubs
 
-.iplt           0x00033668        0x0
- .iplt          0x00033668        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+.iplt           0x00033750        0x0
+ .iplt          0x00033750        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
 
 .mem_section_dummy_rom
 
 .sdh_soc_observers
-                0x00033668       0x10
-                0x00033668                PROVIDE (__start_sdh_soc_observers = .)
+                0x00033750       0x10
+                0x00033750                PROVIDE (__start_sdh_soc_observers = .)
  *(SORT_BY_NAME(.sdh_soc_observers*))
  .sdh_soc_observers0
-                0x00033668        0x8 _build/nrf52840_xxaa/nrf_fstorage_sd.c.o
+                0x00033750        0x8 _build/nrf52840_xxaa/nrf_fstorage_sd.c.o
  .sdh_soc_observers0
-                0x00033670        0x8 _build/nrf52840_xxaa/nrf_drv_clock.c.o
-                0x00033678                PROVIDE (__stop_sdh_soc_observers = .)
+                0x00033758        0x8 _build/nrf52840_xxaa/nrf_drv_clock.c.o
+                0x00033760                PROVIDE (__stop_sdh_soc_observers = .)
 
 .sdh_ble_observers
-                0x00033678       0x20
-                0x00033678                PROVIDE (__start_sdh_ble_observers = .)
+                0x00033760       0x20
+                0x00033760                PROVIDE (__start_sdh_ble_observers = .)
  *(SORT_BY_NAME(.sdh_ble_observers*))
  .sdh_ble_observers0
-                0x00033678        0x8 _build/nrf52840_xxaa/ble_conn_state.c.o
+                0x00033760        0x8 _build/nrf52840_xxaa/ble_conn_state.c.o
  .sdh_ble_observers1
-                0x00033680        0x8 _build/nrf52840_xxaa/bsp_btn_ble.c.o
+                0x00033768        0x8 _build/nrf52840_xxaa/bsp_btn_ble.c.o
  .sdh_ble_observers1
-                0x00033688        0x8 _build/nrf52840_xxaa/ble_conn_params.c.o
+                0x00033770        0x8 _build/nrf52840_xxaa/ble_conn_params.c.o
  .sdh_ble_observers1
-                0x00033690        0x8 _build/nrf52840_xxaa/peer_manager.c.o
-                0x00033698                PROVIDE (__stop_sdh_ble_observers = .)
+                0x00033778        0x8 _build/nrf52840_xxaa/peer_manager.c.o
+                0x00033780                PROVIDE (__stop_sdh_ble_observers = .)
 
-.pwr_mgmt_data  0x00033698        0x0
-                0x00033698                PROVIDE (__start_pwr_mgmt_data = .)
+.pwr_mgmt_data  0x00033780        0x0
+                0x00033780                PROVIDE (__start_pwr_mgmt_data = .)
  *(SORT_BY_NAME(.pwr_mgmt_data*))
-                0x00033698                PROVIDE (__stop_pwr_mgmt_data = .)
+                0x00033780                PROVIDE (__stop_pwr_mgmt_data = .)
 
 .sdh_req_observers
-                0x00033698        0x8
-                0x00033698                PROVIDE (__start_sdh_req_observers = .)
+                0x00033780        0x8
+                0x00033780                PROVIDE (__start_sdh_req_observers = .)
  *(SORT_BY_NAME(.sdh_req_observers*))
  .sdh_req_observers0
-                0x00033698        0x8 _build/nrf52840_xxaa/nrf_fstorage_sd.c.o
-                0x00033698                m_req_obs
-                0x000336a0                PROVIDE (__stop_sdh_req_observers = .)
+                0x00033780        0x8 _build/nrf52840_xxaa/nrf_fstorage_sd.c.o
+                0x00033780                m_req_obs
+                0x00033788                PROVIDE (__stop_sdh_req_observers = .)
 
 .sdh_state_observers
-                0x000336a0       0x10
-                0x000336a0                PROVIDE (__start_sdh_state_observers = .)
+                0x00033788       0x10
+                0x00033788                PROVIDE (__start_sdh_state_observers = .)
  *(SORT_BY_NAME(.sdh_state_observers*))
  .sdh_state_observers0
-                0x000336a0        0x8 _build/nrf52840_xxaa/nrf_fstorage_sd.c.o
+                0x00033788        0x8 _build/nrf52840_xxaa/nrf_fstorage_sd.c.o
  .sdh_state_observers0
-                0x000336a8        0x8 _build/nrf52840_xxaa/nrf_drv_clock.c.o
-                0x000336b0                PROVIDE (__stop_sdh_state_observers = .)
+                0x00033790        0x8 _build/nrf52840_xxaa/nrf_drv_clock.c.o
+                0x00033798                PROVIDE (__stop_sdh_state_observers = .)
 
 .sdh_stack_observers
-                0x000336b0       0x10
-                0x000336b0                PROVIDE (__start_sdh_stack_observers = .)
+                0x00033798       0x10
+                0x00033798                PROVIDE (__start_sdh_stack_observers = .)
  *(SORT_BY_NAME(.sdh_stack_observers*))
  .sdh_stack_observers0
-                0x000336b0        0x8 _build/nrf52840_xxaa/nrf_sdh_ble.c.o
+                0x00033798        0x8 _build/nrf52840_xxaa/nrf_sdh_ble.c.o
  .sdh_stack_observers0
-                0x000336b8        0x8 _build/nrf52840_xxaa/nrf_sdh_soc.c.o
-                0x000336c0                PROVIDE (__stop_sdh_stack_observers = .)
+                0x000337a0        0x8 _build/nrf52840_xxaa/nrf_sdh_soc.c.o
+                0x000337a8                PROVIDE (__stop_sdh_stack_observers = .)
 
-.nrf_queue      0x000336c0        0x0
+.nrf_queue      0x000337a8        0x0
                 [!provide]                PROVIDE (__start_nrf_queue = .)
  *(.nrf_queue)
                 [!provide]                PROVIDE (__stop_nrf_queue = .)
 
-.nrf_balloc     0x000336c0       0x14
+.nrf_balloc     0x000337a8       0x14
                 [!provide]                PROVIDE (__start_nrf_balloc = .)
  *(.nrf_balloc)
- .nrf_balloc    0x000336c0       0x14 _build/nrf52840_xxaa/nrf_log_frontend.c.o
-                0x000336c0                log_mempool
+ .nrf_balloc    0x000337a8       0x14 _build/nrf52840_xxaa/nrf_log_frontend.c.o
+                0x000337a8                log_mempool
                 [!provide]                PROVIDE (__stop_nrf_balloc = .)
 
-.cli_command    0x000336d4        0x0
+.cli_command    0x000337bc        0x0
                 [!provide]                PROVIDE (__start_cli_command = .)
  *(.cli_command)
                 [!provide]                PROVIDE (__stop_cli_command = .)
 
-.crypto_data    0x000336d4        0x0
+.crypto_data    0x000337bc        0x0
                 [!provide]                PROVIDE (__start_crypto_data = .)
  *(SORT_BY_NAME(.crypto_data*))
                 [!provide]                PROVIDE (__stop_crypto_data = .)
 
 .log_const_data
-                0x000336d4       0xc0
-                0x000336d4                PROVIDE (__start_log_const_data = .)
+                0x000337bc       0xc0
+                0x000337bc                PROVIDE (__start_log_const_data = .)
  *(SORT_BY_NAME(.log_const_data*))
  .log_const_data_CLOCK
-                0x000336d4        0x8 _build/nrf52840_xxaa/nrfx_clock.c.o
-                0x000336d4                m_nrf_log_CLOCK_logs_data_const
+                0x000337bc        0x8 _build/nrf52840_xxaa/nrfx_clock.c.o
+                0x000337bc                m_nrf_log_CLOCK_logs_data_const
  .log_const_data_GPIOTE
-                0x000336dc        0x8 _build/nrf52840_xxaa/nrfx_gpiote.c.o
-                0x000336dc                m_nrf_log_GPIOTE_logs_data_const
+                0x000337c4        0x8 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+                0x000337c4                m_nrf_log_GPIOTE_logs_data_const
  .log_const_data_PRS
-                0x000336e4        0x8 _build/nrf52840_xxaa/nrfx_prs.c.o
-                0x000336e4                m_nrf_log_PRS_logs_data_const
+                0x000337cc        0x8 _build/nrf52840_xxaa/nrfx_prs.c.o
+                0x000337cc                m_nrf_log_PRS_logs_data_const
  .log_const_data_TWIM
-                0x000336ec        0x8 _build/nrf52840_xxaa/nrfx_twim.c.o
-                0x000336ec                m_nrf_log_TWIM_logs_data_const
+                0x000337d4        0x8 _build/nrf52840_xxaa/nrfx_twim.c.o
+                0x000337d4                m_nrf_log_TWIM_logs_data_const
  .log_const_data_UART
-                0x000336f4        0x8 _build/nrf52840_xxaa/nrfx_uart.c.o
-                0x000336f4                m_nrf_log_UART_logs_data_const
+                0x000337dc        0x8 _build/nrf52840_xxaa/nrfx_uart.c.o
+                0x000337dc                m_nrf_log_UART_logs_data_const
  .log_const_data_UARTE
-                0x000336fc        0x8 _build/nrf52840_xxaa/nrfx_uarte.c.o
-                0x000336fc                m_nrf_log_UARTE_logs_data_const
+                0x000337e4        0x8 _build/nrf52840_xxaa/nrfx_uarte.c.o
+                0x000337e4                m_nrf_log_UARTE_logs_data_const
  .log_const_data_app
-                0x00033704        0x8 _build/nrf52840_xxaa/nrf_log_frontend.c.o
-                0x00033704                m_nrf_log_app_logs_data_const
+                0x000337ec        0x8 _build/nrf52840_xxaa/nrf_log_frontend.c.o
+                0x000337ec                m_nrf_log_app_logs_data_const
  .log_const_data_ble_bas
-                0x0003370c        0x8 _build/nrf52840_xxaa/ble_bas.c.o
-                0x0003370c                m_nrf_log_ble_bas_logs_data_const
+                0x000337f4        0x8 _build/nrf52840_xxaa/ble_bas.c.o
+                0x000337f4                m_nrf_log_ble_bas_logs_data_const
  .log_const_data_clock
-                0x00033714        0x8 _build/nrf52840_xxaa/nrf_drv_clock.c.o
-                0x00033714                m_nrf_log_clock_logs_data_const
+                0x000337fc        0x8 _build/nrf52840_xxaa/nrf_drv_clock.c.o
+                0x000337fc                m_nrf_log_clock_logs_data_const
  .log_const_data_nrf_ble_gatt
-                0x0003371c        0x8 _build/nrf52840_xxaa/nrf_ble_gatt.c.o
-                0x0003371c                m_nrf_log_nrf_ble_gatt_logs_data_const
+                0x00033804        0x8 _build/nrf52840_xxaa/nrf_ble_gatt.c.o
+                0x00033804                m_nrf_log_nrf_ble_gatt_logs_data_const
  .log_const_data_nrf_fstorage
-                0x00033724        0x8 _build/nrf52840_xxaa/nrf_fstorage.c.o
-                0x00033724                m_nrf_log_nrf_fstorage_logs_data_const
+                0x0003380c        0x8 _build/nrf52840_xxaa/nrf_fstorage.c.o
+                0x0003380c                m_nrf_log_nrf_fstorage_logs_data_const
  .log_const_data_nrf_sdh
-                0x0003372c        0x8 _build/nrf52840_xxaa/nrf_sdh.c.o
-                0x0003372c                m_nrf_log_nrf_sdh_logs_data_const
+                0x00033814        0x8 _build/nrf52840_xxaa/nrf_sdh.c.o
+                0x00033814                m_nrf_log_nrf_sdh_logs_data_const
  .log_const_data_nrf_sdh_ble
-                0x00033734        0x8 _build/nrf52840_xxaa/nrf_sdh_ble.c.o
-                0x00033734                m_nrf_log_nrf_sdh_ble_logs_data_const
+                0x0003381c        0x8 _build/nrf52840_xxaa/nrf_sdh_ble.c.o
+                0x0003381c                m_nrf_log_nrf_sdh_ble_logs_data_const
  .log_const_data_nrf_sdh_soc
-                0x0003373c        0x8 _build/nrf52840_xxaa/nrf_sdh_soc.c.o
-                0x0003373c                m_nrf_log_nrf_sdh_soc_logs_data_const
+                0x00033824        0x8 _build/nrf52840_xxaa/nrf_sdh_soc.c.o
+                0x00033824                m_nrf_log_nrf_sdh_soc_logs_data_const
  .log_const_data_peer_manager
-                0x00033744        0x8 _build/nrf52840_xxaa/peer_manager.c.o
-                0x00033744                m_nrf_log_peer_manager_logs_data_const
+                0x0003382c        0x8 _build/nrf52840_xxaa/peer_manager.c.o
+                0x0003382c                m_nrf_log_peer_manager_logs_data_const
  .log_const_data_peer_manager_gcm
-                0x0003374c        0x8 _build/nrf52840_xxaa/gatt_cache_manager.c.o
-                0x0003374c                m_nrf_log_peer_manager_gcm_logs_data_const
+                0x00033834        0x8 _build/nrf52840_xxaa/gatt_cache_manager.c.o
+                0x00033834                m_nrf_log_peer_manager_gcm_logs_data_const
  .log_const_data_peer_manager_gscm
-                0x00033754        0x8 _build/nrf52840_xxaa/gatts_cache_manager.c.o
-                0x00033754                m_nrf_log_peer_manager_gscm_logs_data_const
+                0x0003383c        0x8 _build/nrf52840_xxaa/gatts_cache_manager.c.o
+                0x0003383c                m_nrf_log_peer_manager_gscm_logs_data_const
  .log_const_data_peer_manager_handler
-                0x0003375c        0x8 _build/nrf52840_xxaa/peer_manager_handler.c.o
-                0x0003375c                m_nrf_log_peer_manager_handler_logs_data_const
+                0x00033844        0x8 _build/nrf52840_xxaa/peer_manager_handler.c.o
+                0x00033844                m_nrf_log_peer_manager_handler_logs_data_const
  .log_const_data_peer_manager_im
-                0x00033764        0x8 _build/nrf52840_xxaa/id_manager.c.o
-                0x00033764                m_nrf_log_peer_manager_im_logs_data_const
+                0x0003384c        0x8 _build/nrf52840_xxaa/id_manager.c.o
+                0x0003384c                m_nrf_log_peer_manager_im_logs_data_const
  .log_const_data_peer_manager_pdb
-                0x0003376c        0x8 _build/nrf52840_xxaa/peer_database.c.o
-                0x0003376c                m_nrf_log_peer_manager_pdb_logs_data_const
+                0x00033854        0x8 _build/nrf52840_xxaa/peer_database.c.o
+                0x00033854                m_nrf_log_peer_manager_pdb_logs_data_const
  .log_const_data_peer_manager_pds
-                0x00033774        0x8 _build/nrf52840_xxaa/peer_data_storage.c.o
-                0x00033774                m_nrf_log_peer_manager_pds_logs_data_const
+                0x0003385c        0x8 _build/nrf52840_xxaa/peer_data_storage.c.o
+                0x0003385c                m_nrf_log_peer_manager_pds_logs_data_const
  .log_const_data_peer_manager_sm
-                0x0003377c        0x8 _build/nrf52840_xxaa/security_manager.c.o
-                0x0003377c                m_nrf_log_peer_manager_sm_logs_data_const
+                0x00033864        0x8 _build/nrf52840_xxaa/security_manager.c.o
+                0x00033864                m_nrf_log_peer_manager_sm_logs_data_const
  .log_const_data_peer_manager_smd
-                0x00033784        0x8 _build/nrf52840_xxaa/security_dispatcher.c.o
-                0x00033784                m_nrf_log_peer_manager_smd_logs_data_const
+                0x0003386c        0x8 _build/nrf52840_xxaa/security_dispatcher.c.o
+                0x0003386c                m_nrf_log_peer_manager_smd_logs_data_const
  .log_const_data_pwr_mgmt
-                0x0003378c        0x8 _build/nrf52840_xxaa/nrf_pwr_mgmt.c.o
-                0x0003378c                m_nrf_log_pwr_mgmt_logs_data_const
-                0x00033794                PROVIDE (__stop_log_const_data = .)
+                0x00033874        0x8 _build/nrf52840_xxaa/nrf_pwr_mgmt.c.o
+                0x00033874                m_nrf_log_pwr_mgmt_logs_data_const
+                0x0003387c                PROVIDE (__stop_log_const_data = .)
 
-.log_backends   0x00033794       0x20
+.log_backends   0x0003387c       0x20
                 [!provide]                PROVIDE (__start_log_backends = .)
  *(SORT_BY_NAME(.log_backends*))
- .log_backends  0x00033794       0x20 _build/nrf52840_xxaa/nrf_log_default_backends.c.o
+ .log_backends  0x0003387c       0x20 _build/nrf52840_xxaa/nrf_log_default_backends.c.o
                 [!provide]                PROVIDE (__stop_log_backends = .)
 
-.ARM.extab      0x000337b4       0x18
+.ARM.extab      0x0003389c       0x48
  *(.ARM.extab* .gnu.linkonce.armextab.*)
- .ARM.extab     0x000337b4       0x18 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(pr-support.o)
-                0x000337cc                __exidx_start = .
+ .ARM.extab.text._Z21control_task_functionPv
+                0x0003389c        0xc _build/nrf52840_xxaa/task_control.cpp.o
+ .ARM.extab.text._Z17ble_task_functionPv
+                0x000338a8        0xc _build/nrf52840_xxaa/task_ble.cpp.o
+ .ARM.extab.text._Z17imu_task_functionPv
+                0x000338b4        0xc _build/nrf52840_xxaa/task_imu.cpp.o
+ .ARM.extab.text._Z19debug_task_functionPv
+                0x000338c0        0xc _build/nrf52840_xxaa/task_debug.cpp.o
+ .ARM.extab     0x000338cc       0x18 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(pr-support.o)
+                0x000338e4                __exidx_start = .
 
-.ARM.exidx      0x000337cc       0xd0
+.ARM.exidx      0x000338e4       0xf0
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
- .ARM.exidx     0x000337cc        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.exidx     0x000338e4        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
  .ARM.exidx.text.startup.main
-                0x000337d4        0x8 _build/nrf52840_xxaa/main.cpp.o
+                0x000338ec        0x8 _build/nrf52840_xxaa/main.cpp.o
  .ARM.exidx.text._Z24led_toggle_task_functionPv
-                0x000337dc        0x0 _build/nrf52840_xxaa/task_led.cpp.o
+                0x000338f4        0x0 _build/nrf52840_xxaa/task_led.cpp.o
                                   0x8 (size before relaxing)
+ .ARM.exidx.text._Z21control_task_functionPv
+                0x000338f4        0x8 _build/nrf52840_xxaa/task_control.cpp.o
+ .ARM.exidx.text._Z17ble_task_functionPv
+                0x000338fc        0x8 _build/nrf52840_xxaa/task_ble.cpp.o
+ .ARM.exidx.text._Z17imu_task_functionPv
+                0x00033904        0x8 _build/nrf52840_xxaa/task_imu.cpp.o
+ .ARM.exidx.text._Z19debug_task_functionPv
+                0x0003390c        0x8 _build/nrf52840_xxaa/task_debug.cpp.o
  .ARM.exidx.text._Z19freeRTOS_StartTasksv
-                0x000337dc       0x10 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+                0x00033914       0x10 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
                                   0x8 (size before relaxing)
- .ARM.exidx     0x000337ec       0x78 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(unwind-arm.o)
+ .ARM.exidx     0x00033924       0x78 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(unwind-arm.o)
                                  0xd8 (size before relaxing)
- .ARM.exidx     0x00033864       0x38 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(pr-support.o)
+ .ARM.exidx     0x0003399c       0x38 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(pr-support.o)
                                  0x48 (size before relaxing)
-                0x0003389c                __exidx_end = .
-                0x0003389c                __etext = .
+                0x000339d4                __exidx_end = .
+                0x000339d4                __etext = .
 
-.rel.dyn        0x0003389c        0x0
- .rel.iplt      0x0003389c        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+.rel.dyn        0x000339d4        0x0
+ .rel.iplt      0x000339d4        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
 
-.data           0x200022e0      0x208 load address 0x0003389c
+.data           0x200022e0      0x208 load address 0x000339d4
                 0x200022e0                __data_start__ = .
  *(vtable)
  *(.data*)
@@ -14624,6 +15363,10 @@ LOAD _build/nrf52840_xxaa/nrfx_twim.c.o
 LOAD _build/nrf52840_xxaa/nrfx_twis.c.o
 LOAD _build/nrf52840_xxaa/main.cpp.o
 LOAD _build/nrf52840_xxaa/task_led.cpp.o
+LOAD _build/nrf52840_xxaa/task_control.cpp.o
+LOAD _build/nrf52840_xxaa/task_ble.cpp.o
+LOAD _build/nrf52840_xxaa/task_imu.cpp.o
+LOAD _build/nrf52840_xxaa/task_debug.cpp.o
 LOAD _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
 LOAD _build/nrf52840_xxaa/i2c.c.o
 LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
@@ -14646,7 +15389,7 @@ LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/g
 LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a
 END GROUP
 
-.igot.plt       0x200024e8        0x0 load address 0x00033aa4
+.igot.plt       0x200024e8        0x0 load address 0x00033bdc
  .igot.plt      0x200024e8        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
                 0x200024e8                . = ALIGN (0x4)
 
@@ -14658,7 +15401,7 @@ END GROUP
  *(.cli_sorted_cmd_ptrs)
                 [!provide]                PROVIDE (__stop_cli_sorted_cmd_ptrs = .)
 
-.fs_data        0x200024e8       0x14 load address 0x00033aa4
+.fs_data        0x200024e8       0x14 load address 0x00033bdc
                 0x200024e8                PROVIDE (__start_fs_data = .)
  *(.fs_data)
  .fs_data       0x200024e8       0x14 _build/nrf52840_xxaa/fds.c.o
@@ -14677,7 +15420,7 @@ END GROUP
  *(SORT_BY_NAME(.log_filter_data*))
                 [!provide]                PROVIDE (__stop_log_filter_data = .)
 
-.bss            0x200024fc     0x8be8 load address 0x00033ab8
+.bss            0x200024fc     0x8bf8 load address 0x00033bf0
                 0x200024fc                . = ALIGN (0x4)
                 0x200024fc                __bss_start__ = .
  *(.bss*)
@@ -14912,42 +15655,54 @@ END GROUP
  .bss.m_clock_cb
                 0x2000affc       0x14 _build/nrf52840_xxaa/nrf_drv_clock.c.o
  .bss.m_cb      0x2000b010       0x34 _build/nrf52840_xxaa/nrfx_twim.c.o
- .bss.led_toggle_task_handle
+ .bss.ble_toggle_task_handle
                 0x2000b044        0x4 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
-                0x2000b044                led_toggle_task_handle
+                0x2000b044                ble_toggle_task_handle
+ .bss.control_toggle_task_handle
+                0x2000b048        0x4 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+                0x2000b048                control_toggle_task_handle
+ .bss.debug_toggle_task_handle
+                0x2000b04c        0x4 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+                0x2000b04c                debug_toggle_task_handle
+ .bss.imu_toggle_task_handle
+                0x2000b050        0x4 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+                0x2000b050                imu_toggle_task_handle
+ .bss.led_toggle_task_handle
+                0x2000b054        0x4 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+                0x2000b054                led_toggle_task_handle
  *(COMMON)
- COMMON         0x2000b048        0xc _build/nrf52840_xxaa/app_util_platform.c.o
-                0x2000b048                nrf_nvic_state
- COMMON         0x2000b054        0x2 _build/nrf52840_xxaa/nrf_drv_uart.c.o
-                0x2000b054                nrf_drv_uart_use_easy_dma
- *fill*         0x2000b056        0x2 
- COMMON         0x2000b058       0x78 _build/nrf52840_xxaa/SEGGER_RTT.c.o
-                0x2000b058                _SEGGER_RTT
- COMMON         0x2000b0d0       0x10 _build/nrf52840_xxaa/queue.c.o
-                0x2000b0d0                xQueueRegistry
- COMMON         0x2000b0e0        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-reent.o)
-                0x2000b0e0                errno
-                0x2000b0e4                . = ALIGN (0x4)
-                0x2000b0e4                __bss_end__ = .
+ COMMON         0x2000b058        0xc _build/nrf52840_xxaa/app_util_platform.c.o
+                0x2000b058                nrf_nvic_state
+ COMMON         0x2000b064        0x2 _build/nrf52840_xxaa/nrf_drv_uart.c.o
+                0x2000b064                nrf_drv_uart_use_easy_dma
+ *fill*         0x2000b066        0x2 
+ COMMON         0x2000b068       0x78 _build/nrf52840_xxaa/SEGGER_RTT.c.o
+                0x2000b068                _SEGGER_RTT
+ COMMON         0x2000b0e0       0x10 _build/nrf52840_xxaa/queue.c.o
+                0x2000b0e0                xQueueRegistry
+ COMMON         0x2000b0f0        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a(lib_a-reent.o)
+                0x2000b0f0                errno
+                0x2000b0f4                . = ALIGN (0x4)
+                0x2000b0f4                __bss_end__ = .
 
-.heap           0x2000b0e8     0x2000
-                0x2000b0e8                __HeapBase = .
-                0x2000b0e8                __end__ = .
-                0x2000b0e8                PROVIDE (end = .)
+.heap           0x2000b0f8     0x2000
+                0x2000b0f8                __HeapBase = .
+                0x2000b0f8                __end__ = .
+                0x2000b0f8                PROVIDE (end = .)
  *(.heap*)
- .heap          0x2000b0e8     0x2000 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
-                0x2000d0e8                __HeapLimit = .
+ .heap          0x2000b0f8     0x2000 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
+                0x2000d0f8                __HeapLimit = .
 
-.stack_dummy    0x2000b0e8     0x2000
+.stack_dummy    0x2000b0f8     0x2000
  *(.stack*)
- .stack         0x2000b0e8     0x2000 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
+ .stack         0x2000b0f8     0x2000 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
                 0x20040000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
                 0x2003e000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
                 0x20040000                PROVIDE (__stack = __StackTop)
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
                 0x0000021c                DataInitFlashUsed = (__bss_start__ - __data_start__)
-                0x0000d89c                CodeFlashUsed = (__etext - ORIGIN (FLASH))
-                0x0000dab8                TotalFlashUsed = (CodeFlashUsed + DataInitFlashUsed)
+                0x0000d9d4                CodeFlashUsed = (__etext - ORIGIN (FLASH))
+                0x0000dbf0                TotalFlashUsed = (CodeFlashUsed + DataInitFlashUsed)
                 0x00000001                ASSERT ((TotalFlashUsed <= LENGTH (FLASH)), region FLASH overflowed with .data and user data)
 OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
 
@@ -15094,35 +15849,43 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .ARM.attributes
                 0x00000f0f       0x39 _build/nrf52840_xxaa/task_led.cpp.o
  .ARM.attributes
-                0x00000f48       0x39 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+                0x00000f48       0x39 _build/nrf52840_xxaa/task_control.cpp.o
  .ARM.attributes
-                0x00000f81       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+                0x00000f81       0x39 _build/nrf52840_xxaa/task_ble.cpp.o
  .ARM.attributes
-                0x00000fb5       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x00000fba       0x39 _build/nrf52840_xxaa/task_imu.cpp.o
  .ARM.attributes
-                0x00000fe9       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+                0x00000ff3       0x39 _build/nrf52840_xxaa/task_debug.cpp.o
  .ARM.attributes
-                0x0000101d       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
+                0x0000102c       0x39 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
  .ARM.attributes
-                0x00001051       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
+                0x00001065       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
  .ARM.attributes
-                0x00001085       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcmp.o)
+                0x00001099       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
  .ARM.attributes
-                0x000010b9       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                0x000010cd       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
  .ARM.attributes
-                0x000010ed       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+                0x00001101       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
  .ARM.attributes
-                0x00001121       0x1b c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+                0x00001135       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
  .ARM.attributes
-                0x0000113c       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
+                0x00001169       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcmp.o)
  .ARM.attributes
-                0x00001170       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
+                0x0000119d       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
  .ARM.attributes
-                0x000011a4       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                0x000011d1       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
  .ARM.attributes
-                0x000011d8       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+                0x00001205       0x1b c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
  .ARM.attributes
-                0x0000120c       0x22 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                0x00001220       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x00001254       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00001288       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000012bc       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x000012f0       0x22 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
 
 .comment        0x00000000       0x7f
  .comment       0x00000000       0x7f _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
@@ -15192,9 +15955,13 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrfx_twim.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/main.cpp.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/task_led.cpp.o
+ .comment       0x0000007f       0x80 _build/nrf52840_xxaa/task_control.cpp.o
+ .comment       0x0000007f       0x80 _build/nrf52840_xxaa/task_ble.cpp.o
+ .comment       0x0000007f       0x80 _build/nrf52840_xxaa/task_imu.cpp.o
+ .comment       0x0000007f       0x80 _build/nrf52840_xxaa/task_debug.cpp.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
 
-.debug_line     0x00000000    0x30786
+.debug_line     0x00000000    0x337d2
  .debug_line    0x00000000       0x9d _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
  .debug_line    0x0000009d      0xc41 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
  .debug_line    0x00000cde      0x95e _build/nrf52840_xxaa/nrf_log_backend_serial.c.o
@@ -15260,11 +16027,15 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_line    0x0002b8d5      0x940 _build/nrf52840_xxaa/app_timer_freertos.c.o
  .debug_line    0x0002c215      0xdca _build/nrf52840_xxaa/nrf_drv_clock.c.o
  .debug_line    0x0002cfdf     0x1333 _build/nrf52840_xxaa/nrfx_twim.c.o
- .debug_line    0x0002e312      0xc72 _build/nrf52840_xxaa/main.cpp.o
- .debug_line    0x0002ef84      0xbfb _build/nrf52840_xxaa/task_led.cpp.o
- .debug_line    0x0002fb7f      0xc07 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+ .debug_line    0x0002e312      0xcb0 _build/nrf52840_xxaa/main.cpp.o
+ .debug_line    0x0002efc2      0xbfb _build/nrf52840_xxaa/task_led.cpp.o
+ .debug_line    0x0002fbbd      0xbf8 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_line    0x000307b5      0xbf0 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_line    0x000313a5      0xbf0 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_line    0x00031f95      0xbf4 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_line    0x00032b89      0xc49 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
 
-.debug_info     0x00000000    0x872b7
+.debug_info     0x00000000    0x89ac5
  .debug_info    0x00000000       0x26 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
  .debug_info    0x00000026     0x1068 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
  .debug_info    0x0000108e     0x1125 _build/nrf52840_xxaa/nrf_log_backend_serial.c.o
@@ -15332,9 +16103,13 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_info    0x00080d20     0x3b5d _build/nrf52840_xxaa/nrfx_twim.c.o
  .debug_info    0x0008487d     0x122a _build/nrf52840_xxaa/main.cpp.o
  .debug_info    0x00085aa7      0x9df _build/nrf52840_xxaa/task_led.cpp.o
- .debug_info    0x00086486      0xe31 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+ .debug_info    0x00086486      0x9ba _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_info    0x00086e40      0x9ba _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_info    0x000877fa      0x9ba _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_info    0x000881b4      0x9ba _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_info    0x00088b6e      0xf57 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
 
-.debug_abbrev   0x00000000     0xfa00
+.debug_abbrev   0x00000000    0x101f5
  .debug_abbrev  0x00000000       0x14 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
  .debug_abbrev  0x00000014      0x323 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
  .debug_abbrev  0x00000337      0x27f _build/nrf52840_xxaa/nrf_log_backend_serial.c.o
@@ -15402,9 +16177,13 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_abbrev  0x0000ee13      0x4fc _build/nrf52840_xxaa/nrfx_twim.c.o
  .debug_abbrev  0x0000f30f      0x2ac _build/nrf52840_xxaa/main.cpp.o
  .debug_abbrev  0x0000f5bb      0x21a _build/nrf52840_xxaa/task_led.cpp.o
- .debug_abbrev  0x0000f7d5      0x22b _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+ .debug_abbrev  0x0000f7d5      0x1fa _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_abbrev  0x0000f9cf      0x1fa _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_abbrev  0x0000fbc9      0x1fa _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_abbrev  0x0000fdc3      0x1fa _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_abbrev  0x0000ffbd      0x238 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
 
-.debug_aranges  0x00000000     0x1ae8
+.debug_aranges  0x00000000     0x1b68
  .debug_aranges
                 0x00000000       0x20 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
  .debug_aranges
@@ -15540,9 +16319,17 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_aranges
                 0x00001aa8       0x20 _build/nrf52840_xxaa/task_led.cpp.o
  .debug_aranges
-                0x00001ac8       0x20 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+                0x00001ac8       0x20 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_aranges
+                0x00001ae8       0x20 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_aranges
+                0x00001b08       0x20 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_aranges
+                0x00001b28       0x20 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_aranges
+                0x00001b48       0x20 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
 
-.debug_str      0x00000000    0xbb8b6
+.debug_str      0x00000000    0xbba9c
  .debug_str     0x00000000       0x88 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
  .debug_str     0x00000088    0x923b7 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
                               0x94b5c (size before relaxing)
@@ -15672,14 +16459,22 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
                               0x95086 (size before relaxing)
  .debug_str     0x000b8e34     0x1549 _build/nrf52840_xxaa/nrfx_twim.c.o
                               0x9552c (size before relaxing)
- .debug_str     0x000ba37d     0x146c _build/nrf52840_xxaa/main.cpp.o
-                              0x96b2b (size before relaxing)
- .debug_str     0x000bb7e9       0x69 _build/nrf52840_xxaa/task_led.cpp.o
+ .debug_str     0x000ba37d     0x14ca _build/nrf52840_xxaa/main.cpp.o
+                              0x96b89 (size before relaxing)
+ .debug_str     0x000bb847       0x69 _build/nrf52840_xxaa/task_led.cpp.o
                               0x96760 (size before relaxing)
- .debug_str     0x000bb852       0x64 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
-                              0x96d98 (size before relaxing)
+ .debug_str     0x000bb8b0       0x4b _build/nrf52840_xxaa/task_control.cpp.o
+                              0x9674d (size before relaxing)
+ .debug_str     0x000bb8fb       0x3f _build/nrf52840_xxaa/task_ble.cpp.o
+                              0x9673d (size before relaxing)
+ .debug_str     0x000bb93a       0x3f _build/nrf52840_xxaa/task_imu.cpp.o
+                              0x9673d (size before relaxing)
+ .debug_str     0x000bb979       0x45 _build/nrf52840_xxaa/task_debug.cpp.o
+                              0x96745 (size before relaxing)
+ .debug_str     0x000bb9be       0xde _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+                              0x96e70 (size before relaxing)
 
-.debug_loc      0x00000000    0x2e046
+.debug_loc      0x00000000    0x2e0ca
  .debug_loc     0x00000000      0x1e2 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
  .debug_loc     0x000001e2      0x160 _build/nrf52840_xxaa/nrf_log_backend_serial.c.o
  .debug_loc     0x00000342      0x227 _build/nrf52840_xxaa/nrf_log_backend_uart.c.o
@@ -15743,8 +16538,12 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_loc     0x0002bf1b     0x20c0 _build/nrf52840_xxaa/nrfx_twim.c.o
  .debug_loc     0x0002dfdb       0x20 _build/nrf52840_xxaa/main.cpp.o
  .debug_loc     0x0002dffb       0x4b _build/nrf52840_xxaa/task_led.cpp.o
+ .debug_loc     0x0002e046       0x21 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_loc     0x0002e067       0x21 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_loc     0x0002e088       0x21 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_loc     0x0002e0a9       0x21 _build/nrf52840_xxaa/task_debug.cpp.o
 
-.debug_ranges   0x00000000     0x98c0
+.debug_ranges   0x00000000     0x9900
  .debug_ranges  0x00000000       0x60 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
  .debug_ranges  0x00000060       0x28 _build/nrf52840_xxaa/nrf_log_backend_serial.c.o
  .debug_ranges  0x00000088       0xb0 _build/nrf52840_xxaa/nrf_log_backend_uart.c.o
@@ -15811,9 +16610,13 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_ranges  0x00009250      0x640 _build/nrf52840_xxaa/nrfx_twim.c.o
  .debug_ranges  0x00009890       0x10 _build/nrf52840_xxaa/main.cpp.o
  .debug_ranges  0x000098a0       0x10 _build/nrf52840_xxaa/task_led.cpp.o
- .debug_ranges  0x000098b0       0x10 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+ .debug_ranges  0x000098b0       0x10 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_ranges  0x000098c0       0x10 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_ranges  0x000098d0       0x10 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_ranges  0x000098e0       0x10 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_ranges  0x000098f0       0x10 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
 
-.debug_macro    0x00000000    0x2cc63
+.debug_macro    0x00000000    0x2e043
  .debug_macro   0x00000000      0x4a6 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
  .debug_macro   0x000004a6      0xa84 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
  .debug_macro   0x00000f2a       0x22 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
@@ -16042,32 +16845,36 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_macro   0x00029005       0x3c _build/nrf52840_xxaa/app_timer_freertos.c.o
  .debug_macro   0x00029041      0x48c _build/nrf52840_xxaa/nrf_drv_clock.c.o
  .debug_macro   0x000294cd      0x46e _build/nrf52840_xxaa/nrfx_twim.c.o
- .debug_macro   0x0002993b      0x4eb _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x00029e26      0xb7a _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002a9a0       0x16 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002a9b6       0x1c _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002a9d2       0x8e _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002aa60      0x17b _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002abdb      0xe66 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002ba41       0x16 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002ba57       0x34 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002ba8b       0x35 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002bac0      0x353 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002be13       0x43 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002be56       0x1c _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002be72       0x52 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002bec4       0x40 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002bf04       0x10 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002bf14       0x40 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002bf54       0xd7 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002c02b       0x1c _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002c047       0x3d _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002c084      0x137 _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002c1bb       0xdc _build/nrf52840_xxaa/main.cpp.o
- .debug_macro   0x0002c297      0x4e4 _build/nrf52840_xxaa/task_led.cpp.o
- .debug_macro   0x0002c77b      0x4e8 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+ .debug_macro   0x0002993b      0x513 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x00029e4e      0xb7a _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002a9c8       0x16 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002a9de       0x1c _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002a9fa       0x8e _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002aa88      0x17b _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002ac03      0xe66 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002ba69       0x16 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002ba7f       0x34 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002bab3       0x35 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002bae8      0x353 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002be3b       0x43 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002be7e       0x1c _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002be9a       0x52 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002beec       0x40 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002bf2c       0x10 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002bf3c       0x40 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002bf7c       0xd7 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002c053       0x1c _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002c06f       0x3d _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002c0ac      0x137 _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002c1e3       0xdc _build/nrf52840_xxaa/main.cpp.o
+ .debug_macro   0x0002c2bf      0x4e4 _build/nrf52840_xxaa/task_led.cpp.o
+ .debug_macro   0x0002c7a3      0x4e4 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_macro   0x0002cc87      0x4e4 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_macro   0x0002d16b      0x4e4 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_macro   0x0002d64f      0x4e4 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_macro   0x0002db33      0x510 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
 
-.debug_frame    0x00000000     0x56a0
+.debug_frame    0x00000000     0x5744
  .debug_frame   0x00000000       0xa0 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
  .debug_frame   0x000000a0       0x40 _build/nrf52840_xxaa/nrf_log_backend_serial.c.o
  .debug_frame   0x000000e0       0xb0 _build/nrf52840_xxaa/nrf_log_backend_uart.c.o
@@ -16134,16 +16941,20 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_frame   0x00005298      0x1b8 _build/nrf52840_xxaa/nrfx_twim.c.o
  .debug_frame   0x00005450       0x28 _build/nrf52840_xxaa/main.cpp.o
  .debug_frame   0x00005478       0x28 _build/nrf52840_xxaa/task_led.cpp.o
- .debug_frame   0x000054a0       0x2c _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
- .debug_frame   0x000054cc       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
- .debug_frame   0x000054f4       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
- .debug_frame   0x00005520       0x68 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .debug_frame   0x00005588       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
- .debug_frame   0x000055d0       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcmp.o)
- .debug_frame   0x000055fc       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
- .debug_frame   0x00005624       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
- .debug_frame   0x00005644       0x3c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
- .debug_frame   0x00005680       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .debug_frame   0x000054a0       0x28 _build/nrf52840_xxaa/task_control.cpp.o
+ .debug_frame   0x000054c8       0x28 _build/nrf52840_xxaa/task_ble.cpp.o
+ .debug_frame   0x000054f0       0x28 _build/nrf52840_xxaa/task_imu.cpp.o
+ .debug_frame   0x00005518       0x28 _build/nrf52840_xxaa/task_debug.cpp.o
+ .debug_frame   0x00005540       0x30 _build/nrf52840_xxaa/freeRTOS_tasks.cpp.o
+ .debug_frame   0x00005570       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00005598       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x000055c4       0x68 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
+ .debug_frame   0x0000562c       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00005674       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcmp.o)
+ .debug_frame   0x000056a0       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x000056c8       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x000056e8       0x3c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
+ .debug_frame   0x00005724       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
 
 .stabstr        0x00000000       0x76
  .stabstr       0x00000000       0x76 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(getpid.o)

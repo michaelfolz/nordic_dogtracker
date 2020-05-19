@@ -103,6 +103,10 @@ SRC_FILES += \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_twis.c \
   $(PROJECT_DIR)/src/main.cpp \
   $(PROJECT_DIR)/src/task_led.cpp \
+  $(PROJECT_DIR)/src/task_control.cpp \
+  $(PROJECT_DIR)/src/task_ble.cpp \
+  $(PROJECT_DIR)/src/task_imu.cpp \
+  $(PROJECT_DIR)/src/task_debug.cpp \
   $(PROJECT_DIR)/src/freeRTOS_tasks.cpp \
   $(PROJECT_DIR)/drivers/i2c/i2c.c \
 
@@ -279,7 +283,7 @@ CFLAGS += -DSWI_DISABLE0
 CFLAGS += -DNRF52840_XXAA
 CFLAGS += -mcpu=cortex-m4
 CFLAGS += -mthumb -mabi=aapcs
-CFLAGS += -Wall -Werror
+CFLAGS += -Wall 
 CFLAGS += -mfloat-abi=hard -mfpu=fpv4-sp-d16
 # keep every function in a separate section, this allows linker to discard unused ones
 CFLAGS += -ffunction-sections -fdata-sections -fno-strict-aliasing

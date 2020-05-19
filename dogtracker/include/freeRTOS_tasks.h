@@ -13,6 +13,11 @@
 
 // task includes 
 #include "task_led.h"
+#include "task_ble.h"
+#include "task_debug.h"
+#include "task_imu.h"
+#include "task_control.h"
+
 
 int32_t freeRTOS_StartTasks(void);
 

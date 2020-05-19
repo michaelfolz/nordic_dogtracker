@@ -21,7 +21,6 @@ const nrf_drv_twi_config_t gTWI_Instance_1_Config =
 
 
 
-
 /**
  * @brief Initialize the master TWI.
  *

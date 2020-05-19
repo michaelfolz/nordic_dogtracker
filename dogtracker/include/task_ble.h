@@ -1,0 +1,21 @@
+#ifndef _TASK_BLE_H_INCLUDED
+#define _TASK_BLE_H_INCLUDED
+
+// Nordic & External Libraries Includes 
+#include "FreeRTOS.h"
+#include "task.h"
+#include "timers.h"
+#include "bsp.h"
+#include "nordic_common.h"
+#include "nrf_drv_clock.h"
+#include "sdk_errors.h"
+#include "app_error.h"
+
+/**
+ * ble task responsible for handelling all ble communications in/out 
+ * @param pvParameter 
+ */
+void ble_task_function(void * pvParameter);
+
+
+#endif /* _TASK_BLE_H_*/

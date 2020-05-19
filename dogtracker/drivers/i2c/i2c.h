@@ -13,6 +13,7 @@
 #include "app_util_platform.h"
 #include "app_timer.h"
 #include "nrf_drv_clock.h"
+
 // gpio drivers
 #include "nrf_drv_gpiote.h"
 #include "nrf_gpiote.h"
