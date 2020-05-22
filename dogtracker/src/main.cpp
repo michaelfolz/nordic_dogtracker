@@ -15,6 +15,13 @@
 #include "task_led.h"
 #include "freeRTOS_tasks.h"
 
+#include "nrf_log.h"
+#include "nrf_log_ctrl.h"
+#include "nrf_log_default_backends.h"
+
+#define DEAD_BEEF                       0xDEADBEEF                              /**< Value used as error code on stack dump, can be used to identify stack location on stack unwind. */
+
+
 /**
  *  @brief Function to set gpio to 3v0 
  */
@@ -39,6 +46,21 @@ static void gpio_output_voltage_setup(void)
 }
 
 
+
+/**@brief Function for initializing the nrf log module.
+ */
+static void log_init(void)
+{
+    ret_code_t err_code = NRF_LOG_INIT(NULL);
+    APP_ERROR_CHECK(err_code);
+
+    NRF_LOG_DEFAULT_BACKENDS_INIT();
+}
+
+
+
+
+
 /**
  * @brief Function for application main entry.
  */
@@ -58,7 +80,12 @@ int main(void)
         gpio_output_voltage_setup();
     }
 
-    // Start all freeRTOS tasks 
+    log_init();
+    
+    NRF_LOG_INFO("\\--------------------------\\");
+    NRF_LOG_INFO(" Dog Tracking Module Start");       
+    NRF_LOG_INFO("\\--------------------------\\");    
+
     error =  freeRTOS_StartTasks();
     if(error != NRF_SUCCESS)
     {

@@ -15,7 +15,7 @@ void debug_task_function(void * pvParameter)
     {
         /* Delay a task for a given number of ticks */
         vTaskDelay(TASK_DELAY);
-
+        
         /* Tasks must be implemented to never return... */
     }
 

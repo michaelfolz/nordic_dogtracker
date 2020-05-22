@@ -535,10 +535,10 @@ static void uart_init(void)
 
     app_uart_comm_params_t const comm_params =
     {
-        .rx_pin_no    = RX_PIN_NUMBER,
-        .tx_pin_no    = TX_PIN_NUMBER,
-        .rts_pin_no   = RTS_PIN_NUMBER,
-        .cts_pin_no   = CTS_PIN_NUMBER,
+        .rx_pin_no    = 13,
+        .tx_pin_no    = 14,
+        .rts_pin_no   = 29,
+        .cts_pin_no   = 2,
         .flow_control = APP_UART_FLOW_CONTROL_DISABLED,
         .use_parity   = false,
         .baud_rate    = UART_BAUDRATE_BAUDRATE_Baud115200

@@ -101,6 +101,9 @@ SRC_FILES += \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_twi.c \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_twim.c \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_twis.c \
+  $(SDK_ROOT)/components/ble/ble_services/ble_lbs/ble_lbs.c \
+  $(PROJECT_DIR)/drivers/ble/nrf_ble.c \
+  $(PROJECT_DIR)/drivers/i2c/i2c.c \
   $(PROJECT_DIR)/src/main.cpp \
   $(PROJECT_DIR)/src/task_led.cpp \
   $(PROJECT_DIR)/src/task_control.cpp \
@@ -108,7 +111,7 @@ SRC_FILES += \
   $(PROJECT_DIR)/src/task_imu.cpp \
   $(PROJECT_DIR)/src/task_debug.cpp \
   $(PROJECT_DIR)/src/freeRTOS_tasks.cpp \
-  $(PROJECT_DIR)/drivers/i2c/i2c.c \
+
 
 # Include folders common to all targets
 INC_FOLDERS += \

@@ -20,8 +20,20 @@
 #include "nrf_gpio.h"
 
 
-ret_code_t twi_init(void);
-ret_code_t twi_tx(uint8_t addr, uint8_t *p_data, uint8_t length);
-ret_code_t twi_rx(uint8_t addr, uint8_t *p_data, uint8_t length);
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+	ret_code_t twi_init(void);
+	ret_code_t twi_tx(uint8_t addr, uint8_t *p_data, uint8_t length);
+	ret_code_t twi_rx(uint8_t addr, uint8_t *p_data, uint8_t length);
+
+#ifdef __cplusplus
+}
+#endif
+
+
 
 #endif /* _I2C_SPI_H_*/
