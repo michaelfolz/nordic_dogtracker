@@ -39,6 +39,8 @@ extern "C" {
 	#include "nrf_wdt.h"
 	#include "nrf_gpio.h"
 	#include "app_timer.h"
+	#include "nrf_pwr_mgmt.h"
+
 
 	// nrf log 
 	#include "nrf_log.h"

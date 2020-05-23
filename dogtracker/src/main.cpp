@@ -59,6 +59,15 @@ static void log_init(void)
 
 
 
+/**@brief Function for initializing the clock.
+ */
+static void clock_init(void)
+{
+    ret_code_t err_code = nrf_drv_clock_init();
+    APP_ERROR_CHECK(err_code);
+}
+
+
 
 
 /**
@@ -68,6 +77,10 @@ int main(void)
 {
     int32_t error = NRF_SUCCESS; 
     /* Configure board. */
+
+
+    clock_init();
+
     bsp_board_init(BSP_INIT_LEDS);
 
     // If nRF52 USB Dongle is powered from USB (high voltage mode),
@@ -100,8 +113,8 @@ int main(void)
 
     while (true)
     {
-        /* FreeRTOS should not be here... FreeRTOS goes back to the start of stack
-         * in vTaskStartScheduler function. */
+        /* FreeRTOS should not be here... FreeRTOS goes back to the start of stack * in vTaskStartScheduler function. */
+        APP_ERROR_HANDLER(NRF_ERROR_FORBIDDEN);
     }
 
 }

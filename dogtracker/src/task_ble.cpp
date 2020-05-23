@@ -1,7 +1,6 @@
 #include "task_ble.h"
 
 
-#include "nrf_pwr_mgmt.h"
 
 
 #define TASK_DELAY        2    
@@ -22,8 +21,9 @@ void ble_task_function(void * pvParameter)
         /* Delay a task for a given number of ticks */
         vTaskDelay(TASK_DELAY);
 
-//        nrf_pwr_mgmt_run();
+     //   nrf_pwr_mgmt_run();
         /* Tasks must be implemented to never return... */
+    
     }
 
     // Task should never end! 
