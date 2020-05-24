@@ -16732,7 +16732,7 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_aranges
                 0x00001ca0       0x98 _build/nrf52840_xxaa/main.c.o
 
-.debug_str      0x00000000    0xbc623
+.debug_str      0x00000000    0xbc621
  .debug_str     0x00000000       0x88 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
  .debug_str     0x00000088    0x923f4 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
                               0x94b6e (size before relaxing)
@@ -16876,8 +16876,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
                               0x8c893 (size before relaxing)
  .debug_str     0x000bab4b     0x1549 _build/nrf52840_xxaa/nrfx_twim.c.o
                               0x9553e (size before relaxing)
- .debug_str     0x000bc094      0x58f _build/nrf52840_xxaa/main.c.o
-                              0xa6f12 (size before relaxing)
+ .debug_str     0x000bc094      0x58d _build/nrf52840_xxaa/main.c.o
+                              0xa6f10 (size before relaxing)
 
 .debug_loc      0x00000000    0x3254e
  .debug_loc     0x00000000      0x1e2 _build/nrf52840_xxaa/nrf_log_backend_rtt.c.o
