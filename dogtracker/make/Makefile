@@ -101,7 +101,8 @@ SRC_FILES += \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_twis.c \
   $(SDK_ROOT)/integration/nrfx/legacy/nrf_drv_twi.c \
   $(PROJECT_DIR)/drivers/i2c/i2c.c \
-  $(PROJECT_DIR)/src/main.c \
+  $(PROJECT_DIR)/drivers/ble/nrf_ble.c \
+  $(PROJECT_DIR)/src/main.cpp \
   $(PROJECT_DIR)/src/task_led.cpp \
   $(PROJECT_DIR)/src/task_control.cpp \
   $(PROJECT_DIR)/src/task_ble.cpp \
