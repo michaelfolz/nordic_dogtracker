@@ -26,11 +26,11 @@ int32_t freeRTOS_StartTasks(void)
 
     UNUSED_VARIABLE(xTaskCreate(ble_task_function, "BLE_TASK", configMINIMAL_STACK_SIZE + 200, NULL, 2, &ble_toggle_task_handle));
 
-    UNUSED_VARIABLE(xTaskCreate(control_task_function, "CONTROL_TASK", configMINIMAL_STACK_SIZE + 200, NULL, 2, &control_toggle_task_handle));
+  //  UNUSED_VARIABLE(xTaskCreate(control_task_function, "CONTROL_TASK", configMINIMAL_STACK_SIZE + 200, NULL, 2, &control_toggle_task_handle));
 
-    UNUSED_VARIABLE(xTaskCreate(debug_task_function, "DEBUG_TASK", configMINIMAL_STACK_SIZE + 200, NULL, 2, &debug_toggle_task_handle));
+//    UNUSED_VARIABLE(xTaskCreate(debug_task_function, "DEBUG_TASK", configMINIMAL_STACK_SIZE + 200, NULL, 2, &debug_toggle_task_handle));
 
-    UNUSED_VARIABLE(xTaskCreate(imu_task_function, "IMU_TASK", configMINIMAL_STACK_SIZE + 200, NULL, 2, &imu_toggle_task_handle));
+ //   UNUSED_VARIABLE(xTaskCreate(imu_task_function, "IMU_TASK", configMINIMAL_STACK_SIZE + 200, NULL, 2, &imu_toggle_task_handle));
 
    // UNUSED_VARIABLE(xTaskCreate(usbd_toggle_task_handle, "USBD_TASK", configMINIMAL_STACK_SIZE + 200, NULL, 2, &usbd_toggle_task_handle));
 

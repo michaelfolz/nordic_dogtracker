@@ -16,7 +16,7 @@ void led_toggle_task_function(void * pvParameter)
         bsp_board_led_invert(i++%LEDS_NUMBER);
         /* Delay a task for a given number of ticks */
         vTaskDelay(TASK_DELAY);
-
+         NRF_LOG_INFO("led_toggle_task_function ");    
         /* Tasks must be implemented to never return... */
     }
 

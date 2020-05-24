@@ -954,7 +954,11 @@ int main(void)
 
     // Initialize modules.
     timers_init();
-    buttons_leds_init(&erase_bonds);
+    //buttons_leds_init(&erase_bonds);
+    //erase_bond
+    //
+    erase_bonds = true;
+    
     gap_params_init();
     gatt_init();
     advertising_init();

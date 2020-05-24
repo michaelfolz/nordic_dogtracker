@@ -51,8 +51,7 @@ extern "C"
 #endif
 
 	uint32_t ble_init(void);
-
-
+	void battery_level_update(void);
 #ifdef __cplusplus
 }
 #endif
