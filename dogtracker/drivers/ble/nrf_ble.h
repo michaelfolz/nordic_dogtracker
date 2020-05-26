@@ -1,5 +1,5 @@
-#ifndef _BLE_H_INCLUDED
-#define _BLE_H_INCLUDED
+#ifndef _NRF_BLE_H_INCLUDED
+#define _NRF_BLE_H_INCLUDED
 
 #include <stdint.h>
 #include <string.h>

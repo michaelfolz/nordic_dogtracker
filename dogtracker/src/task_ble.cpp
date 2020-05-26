@@ -1,8 +1,8 @@
 #include "task_ble.h"
 
+#include "nrf_ble.h"
 
-
-#define TASK_DELAY        2    
+#define TASK_DELAY        2000
 
 /**
  * ble task responsible for handelling all ble communications in/out 
@@ -24,7 +24,7 @@ void ble_task_function(void * pvParameter)
         /* Tasks must be implemented to never return... */
     
        // heart_rate_meas_timeout_handler(2);
-   // battery_level_update();
+        battery_level_update();
     }
 
     // Task should never end! 

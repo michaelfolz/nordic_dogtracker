@@ -239,7 +239,6 @@ INC_FOLDERS += \
   $(PROJ_DIR) \
   $(PROJECT_DIR)/drivers/i2c/ \
   $(PROJECT_DIR)/drivers/ble/ \
-  $(PROJECT_DIR)/drivers/usbd_cdc/ \
   $(SDK_ROOT)/components/softdevice/mbr/nrf52840/headers \
   $(SDK_ROOT)/components/libraries/strerror \
   $(SDK_ROOT)/components/libraries/util \
