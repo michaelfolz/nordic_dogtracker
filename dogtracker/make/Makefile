@@ -92,6 +92,7 @@ SRC_FILES += \
   $(SDK_ROOT)/components/ble/ble_services/ble_bas/ble_bas.c \
   $(SDK_ROOT)/components/ble/ble_services/ble_dis/ble_dis.c \
   $(SDK_ROOT)/components/ble/ble_services/ble_hrs/ble_hrs.c \
+  $(SDK_ROOT)/components/ble/ble_services/ble_lbs/ble_lbs.c \
   $(SDK_ROOT)/components/softdevice/common/nrf_sdh.c \
   $(SDK_ROOT)/components/softdevice/common/nrf_sdh_ble.c \
   $(SDK_ROOT)/components/softdevice/common/nrf_sdh_freertos.c \
@@ -175,6 +176,7 @@ INC_FOLDERS += \
   $(SDK_ROOT)/components/ble/ble_services/ble_lbs \
   $(SDK_ROOT)/components/ble/ble_services/ble_hts \
   $(SDK_ROOT)/components/ble/ble_services/ble_cts_c \
+  $(SDK_ROOT)/components/ble/ble_services/ble_lbs \
   $(SDK_ROOT)/components/libraries/crc16 \
   $(SDK_ROOT)/components/nfc/t4t_parser/apdu \
   $(SDK_ROOT)/components/libraries/usbd/class/cdc \

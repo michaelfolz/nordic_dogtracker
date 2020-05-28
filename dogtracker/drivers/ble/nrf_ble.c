@@ -117,20 +117,84 @@
 
 #define OSTIMER_WAIT_FOR_QUEUE              2                                       /**< Number of ticks to wait for the timer queue to be ready */
 
+#define UUID_EM_CHAR                                           0x1524
 
-BLE_HRS_DEF(m_hrs);                                                 /**< Heart rate service instance. */
+typedef struct __attribute__((__packed__)) 
+{
+    bool                            readable;
+    bool                            writeable;
+    bool                            writeableWithoutResponse;
+    bool                            notify;
+    uint16_t                        typeUUID; 
+    ble_gatts_char_handles_t        handle; 
+} nrf_ble_char_params; 
+
+
+
+typedef struct __attribute__((__packed__)) 
+{
+    uint8_t         deviceName[32];  
+    ble_uuid128_t   deviceUUID;              
+    uint16_t        advertisingInterval;                   /**< The advertising interval (in units of 0.625 ms). */
+    uint16_t        minimumConnectionInterval;
+    uint16_t        maximumConnectionInterval;
+    uint8_t         dataPacketLength; 
+    uint8_t         centralLinkCount;
+    uint8_t         peripheralLinkCount;
+} nrf_ble_connection_params; 
+
+
+
+#define UUID_HOST_SG_READ                                      0x1525
+#define UUID_HOST_IO_READ                                      0x1526
+#define UUID_HOST_HAPTIC_READ                                  0x1527                                          
+
+#define UUID_EM_CHAR                                           0x1524
+#define UUID_IO_CHAR                                           0x1595
+
+
+static nrf_ble_connection_params connectionAndroid = {"MF_BLE", {0x23, 0xD1, 0xBC, 0xEA, 0x5F, 0x78, 0x23, 0x15, 0xDE, 0xEF, 0x12, 0x12, 0x00, 0x00, 0x00, 0x00} \
+                                                   ,40, MSEC_TO_UNITS(12, UNIT_1_25_MS) , MSEC_TO_UNITS(12, UNIT_1_25_MS), 20, 0 , 1};
+  
+
+static nrf_ble_char_params                                  m_emWrite = { true, false, false, true, UUID_EM_CHAR, {0,0,0,0}};
+static nrf_ble_char_params                                  m_ioWrite = { true, false, false, true, UUID_IO_CHAR,  {0,0,0,0}};
+static nrf_ble_char_params                                  m_hostSGRead = { true, true, false, false, UUID_HOST_SG_READ,  {0,0,0,0}}; 
+static nrf_ble_char_params                                  m_hostIORead = { true, true, false, false, UUID_HOST_IO_READ,  {0,0,0,0}}; 
+static nrf_ble_char_params                                  m_hostHapticRead = { true, true, false, false, UUID_HOST_HAPTIC_READ,  {0,0,0,0}}; 
+ 
+ 
+
+#define BLE_HRS_DEF2(_name)                                                                          \
+static ble_hrs_t _name;                                                                             \
+NRF_SDH_BLE_OBSERVER(_name ## _obs,                                                                 \
+                     BLE_HRS_BLE_OBSERVER_PRIO,                                                     \
+                     ble_hrs_on_ble_evt, &_name)
+
+
+BLE_HRS_DEF2(m_hrs);                                                 /**< Heart rate service instance. */
 NRF_BLE_GATT_DEF(m_gatt);                                           /**< GATT module instance. */
 NRF_BLE_QWR_DEF(m_qwr);                                             /**< Context for the Queued Write module.*/
 BLE_ADVERTISING_DEF(m_advertising);                                 /**< Advertising module instance. */
 
 static uint16_t m_conn_handle         = BLE_CONN_HANDLE_INVALID;    /**< Handle of the current connection. */
 
+/**@brief LED Button Service structure. This structure contains various status information for the service. */
+typedef struct {
+    uint16_t                    service_handle;      /**< Handle of LED Button Service (as provided by the BLE stack). */
+    uint8_t                     uuid_type;           /**< UUID type for the LED Button Service. */
+    uint8_t                     uuid_type_test;           /**< UUID type for the LED Button Service. */
+    uint16_t                    conn_handle;         /**< Handle of the current connection (as provided by the BLE stack). BLE_CONN_HANDLE_INVALID if not in a connection. */
+} nrf_ble_t;
+static nrf_ble_t                                            m_nrfBleLibs;                                                      /**< LED Button Service instance. */
+
+
 static ble_uuid_t m_adv_uuids[] =                                   /**< Universally unique service identifiers. */
 {
     {0x1500, BLE_UUID_TYPE_BLE}
 };
 
-
+uint32_t ble_characterisic_apply(nrf_ble_t * p_lbs, nrf_ble_char_params *ble_params);
 
 static void advertising_start(void * p_erase_bonds);
 
@@ -174,6 +238,19 @@ static void pm_evt_handler(pm_evt_t const * p_evt)
     }
 }
 
+
+static uint32_t ble_peripheral_initalize_characteristic(nrf_ble_char_params *pbleCharacteristics)
+{
+    uint32_t err_code = NRF_SUCCESS;
+
+    err_code = ble_characterisic_apply(&m_nrfBleLibs, pbleCharacteristics);
+    if (err_code != NRF_SUCCESS)
+    {
+        return err_code;
+    }
+
+    return err_code; 
+}
 
 
 
@@ -237,8 +314,8 @@ static void nrf_qwr_error_handler(uint32_t nrf_error)
  */
 static void services_init(void)
 {
-    ret_code_t         err_code;
-    ble_hrs_init_t     hrs_init;
+
+  ble_hrs_init_t     hrs_init;
     ble_bas_init_t     bas_init;
     ble_dis_init_t     dis_init;
     nrf_ble_qwr_init_t qwr_init = {0};
@@ -247,11 +324,10 @@ static void services_init(void)
     // Initialize Queued Write Module.
     qwr_init.error_handler = nrf_qwr_error_handler;
 
-    err_code = nrf_ble_qwr_init(&m_qwr, &qwr_init);
+    uint32_t  err_code = nrf_ble_qwr_init(&m_qwr, &qwr_init);
     APP_ERROR_CHECK(err_code);
 
-    // Initialize Heart Rate Service.
-    body_sensor_location = BLE_HRS_BODY_SENSOR_LOCATION_FINGER;
+      body_sensor_location = BLE_HRS_BODY_SENSOR_LOCATION_FINGER;
 
     memset(&hrs_init, 0, sizeof(hrs_init));
 
@@ -266,6 +342,29 @@ static void services_init(void)
     err_code = ble_hrs_init(&m_hrs, &hrs_init);
     APP_ERROR_CHECK(err_code);
 
+    // Add service.
+  /*
+    ble_uuid128_t base_uuid  = {0x23, 0xD1, 0xBC, 0xEA, 0x5F, 0x78, 0x23, 0x15, 0xDE, 0xEF, 0x12, 0x12, 0x00, 0x00, 0x00, 0x00};
+    err_code = sd_ble_uuid_vs_add(&base_uuid, &m_nrfBleLibs.uuid_type);
+    if (err_code != NRF_SUCCESS)
+    {
+        return err_code;
+    }
+
+
+    err_code = sd_ble_gatts_service_add(BLE_GATTS_SRVC_TYPE_PRIMARY, &m_adv_uuids, &m_nrfBleLibs.service_handle);
+    if (err_code != NRF_SUCCESS)
+    {
+        return err_code;
+    }
+*/
+// char params not working 
+    //  ble_peripheral_initalize_characteristic(&m_emWrite);
+   //   ble_peripheral_initalize_characteristic(&m_ioWrite);
+   //      ble_peripheral_initalize_characteristic(&m_hostSGRead);
+    // ble_peripheral_initalize_characteristic(&m_hostIORead);
+    // ble_peripheral_initalize_characteristic(&m_hostHapticRead);
+
     // Initialize Device Information Service.
     memset(&dis_init, 0, sizeof(dis_init));
 
@@ -275,6 +374,75 @@ static void services_init(void)
 
     err_code = ble_dis_init(&dis_init);
     APP_ERROR_CHECK(err_code);
+}
+
+/**@brief Function for adding the LED Characteristic.
+ *
+ * @param[in] p_lbs      LED Button Service structure.
+ * @param[in] p_lbs_init LED Button Service initialization structure.
+ *
+ * @retval NRF_SUCCESS on success, else an error value from the SoftDevice
+ */
+uint32_t ble_characterisic_apply(nrf_ble_t * p_lbs, nrf_ble_char_params *ble_params)
+{
+    ble_gatts_char_md_t char_md;
+    ble_gatts_attr_md_t cccd_md;
+    ble_gatts_attr_t    attr_char_value;
+    ble_uuid_t          ble_uuid;
+    ble_gatts_attr_md_t attr_md;
+
+    memset(&cccd_md, 0, sizeof(cccd_md));
+
+    BLE_GAP_CONN_SEC_MODE_SET_OPEN(&cccd_md.read_perm);
+    BLE_GAP_CONN_SEC_MODE_SET_OPEN(&cccd_md.write_perm);
+    cccd_md.vloc = BLE_GATTS_VLOC_STACK;
+    
+    memset(&char_md, 0, sizeof(char_md));
+    
+    char_md.char_props.read   = ble_params->readable;
+    char_md.char_props.write  = ble_params->writeable;
+    char_md.char_props.notify = ble_params->notify;
+    char_md.char_props.write_wo_resp = ble_params->writeableWithoutResponse;
+    char_md.p_char_user_desc  = NULL;
+    char_md.p_char_pf         = NULL;
+    char_md.p_user_desc_md    = NULL;
+    char_md.p_cccd_md         = &cccd_md;
+    char_md.p_sccd_md         = NULL;
+
+    ble_uuid.type = p_lbs->uuid_type;
+    ble_uuid.uuid = ble_params->typeUUID;
+
+    memset(&attr_md, 0, sizeof(attr_md));
+
+
+    if(ble_params->readable)
+        BLE_GAP_CONN_SEC_MODE_SET_OPEN(&attr_md.read_perm);
+    else
+        BLE_GAP_CONN_SEC_MODE_SET_NO_ACCESS(&attr_md.read_perm);
+
+    if(ble_params->writeable)
+        BLE_GAP_CONN_SEC_MODE_SET_OPEN(&attr_md.write_perm);
+    else
+        BLE_GAP_CONN_SEC_MODE_SET_NO_ACCESS(&attr_md.write_perm);
+
+    attr_md.vloc       = BLE_GATTS_VLOC_STACK;
+    attr_md.rd_auth    = 0;
+    attr_md.wr_auth    = 0;
+    attr_md.vlen       = 0;
+
+    memset(&attr_char_value, 0, sizeof(attr_char_value));
+
+    attr_char_value.p_uuid       = &ble_uuid;
+    attr_char_value.p_attr_md    = &attr_md;
+    attr_char_value.init_len     = sizeof(uint8_t);
+    attr_char_value.init_offs    = 0;
+    attr_char_value.max_len      = NRF_SDH_BLE_GATT_MAX_MTU_SIZE;
+    attr_char_value.p_value      = NULL;
+
+    return sd_ble_gatts_characteristic_add(p_lbs->service_handle,
+                                               &char_md,
+                                               &attr_char_value,
+                                               &ble_params->handle);
 }
 
 
@@ -600,7 +768,7 @@ static void advertising_start(void * p_erase_bonds)
 void battery_level_update(void)
 {
       uint8_t heart_rate = 0;
-    ble_hrs_heart_rate_measurement_send(&m_hrs, heart_rate++);
+  //  ble_hrs_heart_rate_measurement_send(&m_hrs, heart_rate++);
 }
 
 
